@@ -10,8 +10,7 @@ of TDA in NLP, yielding 87 papers we comprehensively survey in this paper. Our f
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
-![PDF file](TDA_survey_flow.pdf)
-<img src="https://github.com/AdaUchendu/AwesomeTDA4NLP/blob/main/TDA_survey_flow.pdf" width=80%>
+![PDF file](tda_flow.png)
 
 
 ## BibTex
