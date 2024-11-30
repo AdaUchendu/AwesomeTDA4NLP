@@ -49,18 +49,25 @@ We conclude by exploring the challenges and unresolved questions that persist in
 #### 1a. Topological Space
 
 **Semantic Topological Space**
-- **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
-- **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
-- **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
-- **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
+- **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* (2007) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
+- **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* (2014) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
+- **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* (2017) [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
+- **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 
 **Syntactic Topological Space**
-- 
+- **Persistent topology of syntax.** Alexander Port, Iulia Gheorghita, Daniel Guth, John M Clark, Crystal Liang, Shival Dasu, and Matilde Marcolli. *Mathematics in Computer Science.* (2018) [[link]](https://link.springer.com/article/10.1007/s11786-017-0329-x) 
+- **Topological analysis of syntactic structures.** Alexander Port, Taelin Karidi, and Matilde Marcolli. *Mathematics in Computer Science* (2022) [[link]](https://link.springer.com/article/10.1007/s11786-021-00520-5)
+  
 
 #### 1b. Topology of Topic Evolution
-
+- **A simplified topological representation of text for local and global context.** Ishrat Rahman Sami and Katayoun Farrahi. *Proceedings of the 25th ACM International Conference on Multimedia.* (2017) [[link]](https://dl.acm.org/doi/abs/10.1145/3123266.3123330?casa_token=v3xCm-nq5ukAAAAA:B7FMsoEvD9_M5FrOJ6MHgqFzCj4KfHM2eAO2RQOh3V5dQeCKUUdck-QnciUl2FqpbdYPJFiEzTmE)
+  
 
 #### 1c. Topological “Shape” of Words
+- **The shape of word embeddings: Quantifying non-isometry with topological data analysis.** Ondˇrej Draganov and Steven Skiena. *Findings of the Association for Computational Linguistics: EMNLP 2024.* (2024) [[link]](https://aclanthology.org/2024.findings-emnlp.705/)
+- **The shape of words-topological structure in natural language data.** Stephen Fitz. *In Topological, Algebraic, and Geometric Learning Workshops 2022.* (2022) [[link]](https://proceedings.mlr.press/v196/fitz22a.html)
+- **Hidden holes: topological aspects of language models.** Stephen Fitz, Peter Romero, and Jiyan Jonas Schneider. *arXiv preprint arXiv:2406.05798.* (2024) [[link]](https://arxiv.org/pdf/2406.05798)
+- **Linguistics from a topological viewpoint.** Rui Dong. *arXiv preprint arXiv:2403.15440.* (2024) [[link]](https://arxiv.org/abs/2403.15440)
 
 ### 2. Non-theoretical Approaches
 
