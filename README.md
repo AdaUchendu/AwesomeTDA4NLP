@@ -28,6 +28,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - [Overview](#overview)
 - [Paper List](#paper-list)
   - [1. Theoretical Approaches](#1-theoretical-approaches)
+    - [1a. Topological Space](#1a-topological-space)
+    - [1b. Topology of Topic Evolution](#1b-topology-of-topic-evolution)
+    - [1c. Topological "Shape" of Words](#1c-topological-shape-of-words)
   - [2. Non-Theoretical Approaches](#2-non-theoretical-approaches)
     - [2a. TF-IDF](#2a-tf-idf)
     - [2b. Pre-trained Embeddings](#2b-pre-trained-embeddings)
@@ -42,13 +45,27 @@ We conclude by exploring the challenges and unresolved questions that persist in
 ## Paper List
 
 ### 1. Theoretical Approaches
+
+#### 1a. Topological Space
+
+**Semantic Topological Space**
 - **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 - **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
+- **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
+- **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
+
+**Syntactic Topological Space**
+- 
+
+#### 1b. Topology of Topic Evolution
+
+
+#### 1c. Topological “Shape” of Words
 
 ### 2. Non-theoretical Approaches
 
 #### 2a. TF-IDF
-- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* [[link]](https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf)
+- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* [[link]]([https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8))
 
 #### 2b. Pre-trained Embeddings 
 **Word2Vec**
