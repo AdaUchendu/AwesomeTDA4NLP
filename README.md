@@ -20,7 +20,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
   author={Uchendu, Adaku and Le, Thai},
   journal={arXiv preprint arXiv:2411.10298},
   year={2024},
-  url     = {https://arxiv.org/abs/2411.10298}, 
+  url={https://arxiv.org/abs/2411.10298}, 
 }
 ```
 
@@ -29,17 +29,54 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - [Paper List](#paper-list)
   - [1. Theoretical Approaches](#1-theoretical-approaches)
   - [2. Non-Theoretical Approaches](#2-non-theoretical-approaches)
+    - [2a. TF-IDF](#2a-tf-idf)
+    - [2b. Pre-trained Embeddings](#2b-pre-trained-embeddings)
+    - [2c. Symbolic Representation](#2c-symbolic-representation)
+    - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
     
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-
+---
 ## Paper List
 
 ### 1. Theoretical Approaches
 - **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 
 ### 2. Non-theoretical Approaches
+
+#### 2a. TF-IDF
 - **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* [[link]](https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf)
 
+#### 2b. Pre-trained Embeddings 
+**Word2Vec**
+
+**GloVe**
+
+**FastText**
+
+**ELMo**
+
+**Transformers**
+
+
+#### 2c. Symbolic Representation
+
+
+#### 2d. Multi-Modal Representation
+
+
+
+## Contributing
+We welcome contributions from the community. If you have a paper applying TDA in NLP tasks, please submit a pull request or open an issue.
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+---
+
+## Contact
+For any questions or inquiries, please contact [Adaku Uchendu](mailto:akuuche301@gmail.com) and [Thai Le](mailto:tle@iu.edu).
