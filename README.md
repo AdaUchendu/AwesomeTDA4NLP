@@ -10,7 +10,36 @@ of TDA in NLP, yielding 87 papers we comprehensively survey in this paper. Our f
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
-![image](TDA_survey_flow.pdf) <br>
+<img src="https://github.com/AdaUchendu/AwesomeTDA4NLP/blob/main/TDA_survey_flow.pdf" width=80%>
 
-<img src="TDA_survey_flow.pdf" width=80%>
+
+## BibTex
+```
+@article{uchendu2024unveiling,
+  title={Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP},
+  author={Uchendu, Adaku and Le, Thai},
+  journal={arXiv preprint arXiv:2411.10298},
+  year={2024},
+  url     = {https://arxiv.org/abs/2411.10298}, 
+}
+```
+
+## Table of Content
+- [Overview](#overview)
+- [Paper List](#paper-list)
+  - [1. Theoretical Approaches](#1-theoretical-approaches)
+  - [2. Non-Theoretical Approaches](#2-non-theoretical-approaches)
+    
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
+## Paper List
+
+### 1. Theoretical Approaches
+- **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
+
+### 2. Non-theoretical Approaches
+- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* [[link]](https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf)
 
