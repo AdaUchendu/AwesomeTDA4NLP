@@ -72,13 +72,19 @@ We conclude by exploring the challenges and unresolved questions that persist in
 ### 2. Non-theoretical Approaches
 
 #### 2a. TF-IDF
-- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* (2013) [[link]]([https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8))
+- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* (2013) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 - **Text Classification via Topological Data Analysis.** Bendik Løvlie. *Master’s thesis, Norwegian University of Science and Technology (NTNU)* (2023) [[link]](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3080989/no.ntnu%3Ainspera%3A142441053%3A34433481.pdf?sequence=1)
 - **Movie genre detection using topological data analysis.** Pratik Doshi and Wlodek Zadrozny. *Statistical Language and Speech Processing: 6th International Conference, SLSP 2018* (2018) [[link]](https://link.springer.com/chapter/10.1007/978-3-030-00810-9_11)
 - **Genre classification: A topological data analysis approach.** Kevin Shin. (2019) [[link]](https://github.com/kevin-shin/TopologyNLP)
 - **Topological data analysis for discourse semantics?** Ketki Savle, Wlodek Zadrozny, and Minwoo Lee. *Proceedings of the 13th International Conference on Computational Semantics-Student Papers* (2019) [[link]](https://aclanthology.org/W19-0605/)
 - **Does the geometry of word embeddings help document classification?** Paul Michel, Abhilasha Ravichander, and Shruti Rijhwani. *Proceedings of the 2nd Workshop on Representation Learning for NLP.* (2017) [[link]](https://aclanthology.org/W17-2628/)
 - **A topological collapse for document summarization.** Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic. *2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC).* (2016) [[link]](https://ieeexplore.ieee.org/abstract/document/7536867?casa_token=yPYmyL1A6qwAAAAA:aVh63dwqFeXTjDi8kXnAFYuwlNvjsYv10S0japLvS94ihs14-wo_1VCtZCBboPd2RTXhq4x4)
+- **Topic detection in Twitter using topology data analysis.** Pablo Torres-Tramón, Hugo Hromic, and Bahareh Rahmanzadeh Heravi. *Current Trends in Web Engineering.* (2015) [[link]](https://link.springer.com/chapter/10.1007/978-3-319-24800-4_16)
+- **Extractive text summarization using topological features.** Ankit Kumar and Apurba Sarkar. *International Workshop on Combinatorial Image Analysis.* (2022) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-23612-9_7)
+- **Novel topological shapes of model interpretability.** Hendrik Jacob van Veen. *TDA and Beyond at the 34th Conference on Neural Information Processing Systems (NeurIPS 2020).* (2020) [[link]](https://openreview.net/pdf?id=G-kWQ9WvBMq)
+- **An introduction to a new text classification and visualization for natural language processing using topological data analysis.** Naiereh Elyasi and Mehdi Hosseini Moghadam. *arXiv preprint arXiv:1906.01726.* (2019) [[link]](https://arxiv.org/abs/1906.01726)
+- **Topological data analysis of open-ended responses.** Bright Effah. *Ph.D. thesis, University of Cape Coast* (2017) [[link]](https://tspace.library.utoronto.ca/handle/1807/126591)
+- **The shape of poems.** Lamis Maadarani and Sayonita Ghosh Hajra. *Sac State Scholars' Fall Poster Forum* [[link]](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01CALS_USL/storage/alma/B9/EE/E1/5F/09/E1/D1/AD/9F/1D/2A/1A/7B/5F/1C/40/Maadarani_Lamis_FallPosterForum2019.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241130T212253Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=10d7cec232eba4cf1eb22800616c78c77838358a9dd8d72504751e620e96de6d)
 - 
 
 #### 2b. Pre-trained Embeddings 
