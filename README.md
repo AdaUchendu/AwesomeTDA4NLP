@@ -65,7 +65,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 #### 1c. Topological “Shape” of Words
 - **The shape of word embeddings: Quantifying non-isometry with topological data analysis.** Ondˇrej Draganov and Steven Skiena. *Findings of the Association for Computational Linguistics: EMNLP 2024.* (2024) [[link]](https://aclanthology.org/2024.findings-emnlp.705/)
-- **The shape of words-topological structure in natural language data.** Stephen Fitz. *In Topological, Algebraic, and Geometric Learning Workshops 2022.* (2022) [[link]](https://proceedings.mlr.press/v196/fitz22a.html)
+- **The shape of words-topological structure in natural language data.** Stephen Fitz. *Topological, Algebraic, and Geometric Learning Workshops 2022.* (2022) [[link]](https://proceedings.mlr.press/v196/fitz22a.html)
 - **Hidden holes: topological aspects of language models.** Stephen Fitz, Peter Romero, and Jiyan Jonas Schneider. *arXiv preprint arXiv:2406.05798.* (2024) [[link]](https://arxiv.org/pdf/2406.05798)
 - **Linguistics from a topological viewpoint.** Rui Dong. *arXiv preprint arXiv:2403.15440.* (2024) [[link]](https://arxiv.org/abs/2403.15440)
 
