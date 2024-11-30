@@ -43,6 +43,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 ### 1. Theoretical Approaches
 - **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
+- **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 
 ### 2. Non-theoretical Approaches
 
