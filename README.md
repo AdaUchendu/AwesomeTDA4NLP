@@ -10,6 +10,7 @@ of TDA in NLP, yielding 87 papers we comprehensively survey in this paper. Our f
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
+![PDF file](TDA_survey_flow.pdf)
 <img src="https://github.com/AdaUchendu/AwesomeTDA4NLP/blob/main/TDA_survey_flow.pdf" width=80%>
 
 
@@ -85,7 +86,6 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **An introduction to a new text classification and visualization for natural language processing using topological data analysis.** Naiereh Elyasi and Mehdi Hosseini Moghadam. *arXiv preprint arXiv:1906.01726.* (2019) [[link]](https://arxiv.org/abs/1906.01726)
 - **Topological data analysis of open-ended responses.** Bright Effah. *Ph.D. thesis, University of Cape Coast* (2017) [[link]](https://tspace.library.utoronto.ca/handle/1807/126591)
 - **The shape of poems.** Lamis Maadarani and Sayonita Ghosh Hajra. *Sac State Scholars' Fall Poster Forum* [[link]](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01CALS_USL/storage/alma/B9/EE/E1/5F/09/E1/D1/AD/9F/1D/2A/1A/7B/5F/1C/40/Maadarani_Lamis_FallPosterForum2019.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241130T212253Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=10d7cec232eba4cf1eb22800616c78c77838358a9dd8d72504751e620e96de6d)
-- 
 
 #### 2b. Pre-trained Embeddings 
 **Word2Vec**
