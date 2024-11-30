@@ -72,7 +72,14 @@ We conclude by exploring the challenges and unresolved questions that persist in
 ### 2. Non-theoretical Approaches
 
 #### 2a. TF-IDF
-- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* [[link]]([https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8))
+- **Persistent homology: An introduction and a new text representation for natural language processing.** Xiaojin Zhu. *IJCAI* (2013) [[link]]([https://pages.cs.wisc.edu/~jerryzhu/career/pub/homology.pdf](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8))
+- **Text Classification via Topological Data Analysis.** Bendik Løvlie. *Master’s thesis, Norwegian University of Science and Technology (NTNU)* (2023) [[link]](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3080989/no.ntnu%3Ainspera%3A142441053%3A34433481.pdf?sequence=1)
+- **Movie genre detection using topological data analysis.** Pratik Doshi and Wlodek Zadrozny. *Statistical Language and Speech Processing: 6th International Conference, SLSP 2018* (2018) [[link]](https://link.springer.com/chapter/10.1007/978-3-030-00810-9_11)
+- **Genre classification: A topological data analysis approach.** Kevin Shin. (2019) [[link]](https://github.com/kevin-shin/TopologyNLP)
+- **Topological data analysis for discourse semantics?** Ketki Savle, Wlodek Zadrozny, and Minwoo Lee. *Proceedings of the 13th International Conference on Computational Semantics-Student Papers* (2019) [[link]](https://aclanthology.org/W19-0605/)
+- **Does the geometry of word embeddings help document classification?** Paul Michel, Abhilasha Ravichander, and Shruti Rijhwani. *Proceedings of the 2nd Workshop on Representation Learning for NLP.* (2017) [[link]](https://aclanthology.org/W17-2628/)
+- **A topological collapse for document summarization.** Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic. *2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC).* (2016) [[link]](https://ieeexplore.ieee.org/abstract/document/7536867?casa_token=yPYmyL1A6qwAAAAA:aVh63dwqFeXTjDi8kXnAFYuwlNvjsYv10S0japLvS94ihs14-wo_1VCtZCBboPd2RTXhq4x4)
+- 
 
 #### 2b. Pre-trained Embeddings 
 **Word2Vec**
