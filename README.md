@@ -97,7 +97,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological data analysis for word sense disambiguation.** Michael Rawson, Samuel Dooley, Mithun Bharadwaj, and Rishabh Choudhary. *arXiv preprint arXiv:2203.00565.* (2022) [[link]](https://arxiv.org/abs/2203.00565)
 - **Local homology of word embeddings.** Tadas Tƒemˇcinas. *arXiv preprint arXiv:1810.10136.* (2018) [[link]](https://arxiv.org/abs/1810.10136)
 - **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
-- **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2020) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
+- **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2021) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
 - **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 
@@ -118,8 +118,32 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **An analysis of the effect of polysemy on the topology of the latent manifold.** Denis Shehu. *Master’s thesis, Eindhoven University of Technology.* (2024) [[link]](https://pure.tue.nl/ws/portalfiles/portal/333617770/Shehu_D.pdf)
 
 **ELMo**
+- **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2021) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
+
 
 **Transformers**
+
+*CLS*
+- **Intrinsic dimension estimation for robust detection of ai-generated texts.** Eduard Tulchinskii, Kristian Kuznetsov, Laida Kushnareva, Daniil Cherniavskii, Sergey Nikolenko, Evgeny Burnaev, Serguei Barannikov, and Irina Piontkovskaya. *Advances in Neural Information Processing Systems.* (2024) [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7baa48bc166aa2013d78cbdc15010530-Abstract-Conference.html)
+- **Ai-generated text boundary detection with roft.** Laida Kushnareva, Tatiana Gaintseva, German Magai, Serguei Barannikov, Dmitry Abulkhanov, Kristian Kuznetsov, Eduard Tulchinskii, Irina Piontkovskaya, and Sergey Nikolenko. *1st Conference on Language Modeling (COLM).* (2024) [[link]](https://openreview.net/pdf?id=kzzwTrt04Z)
+- **Estimating class separability of text embeddings with persistent homology.** Kostis Gourgoulias, Najah Ghalyan, Maxime Labonne, Sean Moran, Joseph Sabelja. *Transactions on Machine Learning Research.* (2024) [[link]](https://openreview.net/pdf?id=8DWrIMuLya)
+- **Topobert: Exploring the topology of fine-tuned word representations.** Archit Rathore, Yichu Zhou, Vivek Srikumar, and Bei Wang. *Information Visualization* (2023) [[link]](https://journals.sagepub.com/doi/full/10.1177/14738716231168671?casa_token=dGPubl3-b60AAAAA%3AV_Kw4pv1WTJvjYCb-TzBZD3iR14yda6nG5Qh27DibQ6EeBpl0s_E6y_HGhxa1pBWFgSOrybOHygX)
+- **Combining topological signature with text embeddings: Multi-modal approach to fake news detection.** Rachel Lavery, Anna Jurek-Loughrey, and Lu Bai. *35th Irish Signals and Systems Conference (ISSC)* (2024) [[link]](https://ieeexplore.ieee.org/abstract/document/10603336?casa_token=KudZzv9Ylz8AAAAA:RUcUL17eaT7Qq-DBQEN8NadxwSWdbZ0BDUitk0D5zBkah26UJ4Dgvh2r5np2sKbv02fK5lhY)
+- **Beyond simple averaging: Improving nlp ensemble performance with topological-data-analysis-based weighting.** Polina Proskura and Alexey Zaytsev. *IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)* (2024) [[link]](https://ieeexplore.ieee.org/abstract/document/10722805?casa_token=V6AqtXODPjkAAAAA:vuELpOVUlLEhX33fuEm-bdiuJKaSQq3ghwOo-nYmMQWUszBawm_D0DYsLPjvl5CDBNTPayI7)
+- **Persistence homology of tedtalk: Do sentence embeddings have a topological shape?** Shouman Das, Syed A Haque, and Md Iftekhar Tanveer. *arXiv preprint arXiv:2103.14131.* (2021) [[link]](https://arxiv.org/abs/2103.14131)
+- **Topic modeling with topological data analysis.** Ciarán Byrne, Danijela Horak, Karo Moilanen, and Amandla Mabona. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* (2022) [[link]](https://aclanthology.org/2022.emnlp-main.792/)
+
+
+*Hidden*
+- **Topformer: Topology-aware authorship attribution of deepfake texts with diverse writing styles.** Adaku Uchendu, Thai Le, and Dongwon Lee. *ECAI 2024.* (2024) [[link]](https://ebooks.iospress.nl/doi/10.3233/FAIA240647)
+- **Applications of topological data analysis to natural language processing and computer vision.** Jason S Garcia. *Ph.D. thesis, Colorado State University.* (2022) [[link]](https://www.proquest.com/docview/2670154139?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+- **Persistent topological features in large language models.** Yuri Gardinazzi, Giada Panerai, Karthik Viswanathan, Alessio Ansuini, Alberto Cazzaniga, and Matteo Biagetti. *arXiv preprint arXiv:2410.11042* (2024) [[link]](https://arxiv.org/abs/2410.11042)
+- **Topological interpretations of GPT-3.** Tianyi Sun and Bradley Nelson. *arXiv preprint arXiv:2308.03565* (2023) [[link]](https://arxiv.org/abs/2308.03565)
+- 
+
+*Attention*
+
+
 
 
 #### 2c. Symbolic Representation
