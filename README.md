@@ -36,7 +36,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
     - [2b. Pre-trained Embeddings](#2b-pre-trained-embeddings)
     - [2c. Symbolic Representation](#2c-symbolic-representation)
     - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
-    
+
+- [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -173,6 +174,8 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
 - **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
 
+## Resources
+To learn more about TDA techniques, libraries for implementing TDA in Python, R, etc., and TDA conferences, workshops, or seminars, go to [FatemehTarashi's TDA repo](https://github.com/FatemehTarashi/awesome-tda)
 
 ## Contributing
 We welcome contributions from the community. If you have a paper applying TDA in NLP tasks, please submit a pull request or open an issue.
