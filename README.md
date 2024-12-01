@@ -139,18 +139,39 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Applications of topological data analysis to natural language processing and computer vision.** Jason S Garcia. *Ph.D. thesis, Colorado State University.* (2022) [[link]](https://www.proquest.com/docview/2670154139?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 - **Persistent topological features in large language models.** Yuri Gardinazzi, Giada Panerai, Karthik Viswanathan, Alessio Ansuini, Alberto Cazzaniga, and Matteo Biagetti. *arXiv preprint arXiv:2410.11042* (2024) [[link]](https://arxiv.org/abs/2410.11042)
 - **Topological interpretations of GPT-3.** Tianyi Sun and Bradley Nelson. *arXiv preprint arXiv:2308.03565* (2023) [[link]](https://arxiv.org/abs/2308.03565)
-- 
+- **Bertops: Studying BERT representations under a topological lens.** Jatin Chauhan and Manohar Kaul. *International Joint Conference on Neural Networks (IJCNN).*  (2022) [[link]](https://ieeexplore.ieee.org/abstract/document/9891897?casa_token=buBPJ1znZcUAAAAA:nxoeTqub6wzYdMf1wNHz5fDxSRBWerUAsnivfCU_3pFnjweOSg5My0SLMrFad5J5w64llcNI)
+- **Relative representations: Topological and geometric perspectives.** Alejandro García-Castellanos, Giovanni Luca Marchetti, Danica Kragic, and Martina Scolamiero. *arXiv preprint arXiv:2409.10967.* (2024) [[link]](https://arxiv.org/abs/2409.10967)
+- **Local topology measures of contextual language model latent spaces with applications to dialogue term extraction.** Benjamin Matthias Ruppik, Michael Heck, Carel van Niekerk, Renato Vukovic, Hsien-chin Lin, Shutong Feng, Marcus Zibrowius, and Milica Gaši´c. *Proceedings of the 25th Meeting of the Special Interest Group on Discourse and Dialogue.* (2024) [[link]](https://aclanthology.org/2024.sigdial-1.31/)
+- **The more polypersonal the better - A short look on space geometry of fine-tuned layers.** Sergei Kudriashov, Veronika Zykova, Angelina Stepanova, Jacob Raskind, and Eduard Klyshinsky. *International Conference on Neuroinformatics.* (2024) [[link]](https://publications.hse.ru/en/chapters/979170791)
 
 *Attention*
-
-
+- **Artificial text detection via examining the topology of attention maps.** Laida Kushnareva, Daniil Cherniavskii, Vladislav Mikhailov, Ekaterina Artemova, Serguei Barannikov, Alexander Bernstein, Irina Piontkovskaya, Dmitri Piontkovski, and Evgeny Burnaev. *Proceedings of the 2021 EMNLP* (2021) [[link]](https://aclanthology.org/2021.emnlp-main.50/)
+- **Acceptability judgements via examining the topology of attention maps.** Daniil Cherniavskii, Eduard Tulchinskii, Vladislav Mikhailov, Irina Proskurina, Laida Kushnareva, Ekaterina Artemova, Serguei Barannikov, Irina Piontkovskaya, Dmitri Piontkovski, and Evgeny Burnaev. *Findings of the Association for Computational Linguistics: EMNLP 2022.* (2022) [[link]](https://aclanthology.org/2022.findings-emnlp.7/)
+- **Can BERT eat RuCola? Topological data analysis to explain.** Irina Proskurina, Ekaterina Artemova, and Irina Piontkovskaya. *Proceedings of the 9th Workshop on Slavic Natural Language Processing 2023 (SlavicNLP 2023).* (2023) [[link]](https://aclanthology.org/2023.bsnlp-1.15/)
+- **Beyond words: A topological exploration of coherence in text documents.** Samyak Jain, Rishi Singhal, Sriram Krishna, Yaman K Singla, and Rajiv Ratn Shah. *The Second Tiny Papers Track at ICLR 2024.* (2024) [[link]](https://openreview.net/pdf?id=QJxVhljAyS)
+- **Uncertainty estimation of transformers’ predictions via topological analysis of the attention matrices.** Elizaveta Kostenok, Daniil Cherniavskii, and Alexey Zaytsev. *arXiv preprint arXiv:2308.11295.* [[link]](https://arxiv.org/abs/2308.11295)
+- **The topological bert: Transforming attention into topology for natural language processing.** Ilan Perez and Raphael Reinauer. *arXiv preprint arXiv:2206.15195.* (2022) [[link]](https://arxiv.org/abs/2206.15195)
+- **Detecting out-of-distribution text using topological features of transformer-based language models.** Andres Pollano, Anupam Chaudhuri, and Anj Simmons. *The IJCAI-2024 AISafety Workshop.* (2024) [[link]](https://arxiv.org/abs/2311.13102)
+- **Diversity-aware ensembling of language models based on topological data analysis.** Polina Proskura and Alexey Zaytsev. *arXiv preprint arXiv:2402.14184.* (2024) [[link]](https://arxiv.org/abs/2402.14184)
+- **Topological data analysis for speech processing.** Eduard Tulchinskii, Kristian Kuznetsov, Daniil Cherniavskii, Serguei Barannikov, Sergey Nikolenko, and Evgeny Burnaev. *Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH.* (2023) [[link]](https://www.isca-archive.org/interspeech_2023/tulchinskii23_interspeech.pdf)
+- **Dialogue term extraction using transfer learning and topological data analysis.** Renato Vukovic, Michael Heck, Benjamin Ruppik, Carel van Niekerk, Marcus Zibrowius, and Milica Gasic. *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* (2022) [[link]](https://aclanthology.org/2022.sigdial-1.53/)
 
 
 #### 2c. Symbolic Representation
+- **Tongue twisters detection in Ukrainian by using tda.** Iryna Yurchuk and Olga Gurnik. *CEUR Workshop Proceedings.* (2023) [[link]](https://ceur-ws.org/Vol-3396/paper13.pdf)
+- **Topological structure of Ukrainian tongue twisters based on speech sound analysis.** Tetiana Kovaliuk, Iryna Yurchuk, and Olga Gurnik. *MoDaST-2024: 6th International Workshop on Modern Data Science Technologies.* (2024) [[link]](https://ceur-ws.org/Vol-3723/paper18.pdf)
 
 
 #### 2d. Multi-Modal Representation
-
+- **Topological data analysis of human vowels: Persistent homologies across representation spaces.** Guillem Bonafos, Jean-Marc Freyermuth, Pierre Pudlo, Samuel Tronçon, and Arnaud Rey. *arXiv preprint arXiv:2310.06508.* [[link]](https://arxiv.org/abs/2310.06508)
+- **Dirichlet process mixture model based on topologically augmented signal representation for clustering infant vocalizations.** Guillem Bonafos, Clara Bourot, Pierre Pudlo, Jean-Marc Freyermuth, Laurence Reboul, Samuel
+Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-archive.org/interspeech_2024/bonafos24_interspeech.pdf)
+- **Towards emotion recognition: a persistent entropy application.** Rocio Gonzalez-Diaz, Eduardo Paluzo-Hidalgo, and José F Quesada. *Computational Topology in Image Context: 7th International Workshop, CTIC 2019.* (2019) [[link]](https://link.springer.com/chapter/10.1007/978-3-030-10828-1_8)
+- **Emotion recognition in talking-face videos using persistent entropy and neural networks.** Eduardo Paluzo-Hidalgo, Rocio Gonzalez-Diaz, and Guillermo Aguirre-Carrazana. *Electronic Research Archive.* (2022) [[link]](https://www.aimspress.com/article/doi/10.3934/era.2022034)
+- **Topological data analysis to engineer features from audio signals for depression detection.** ML Tlachac, Adam Sargent, Ermal Toto, Randy Paffenroth, and Elke Rundensteiner. *19th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2020) [[link]](https://ieeexplore.ieee.org/abstract/document/9356319?casa_token=mo6k8UBExnkAAAAA:YZO16Xc-sysnNbPU2PkJB_sIpe8yta8qGYIjHMgAgk7Qpmi-pbMuTNnJ86G2pjiRiSLvNS3P)
+- **Topology-enhanced machine learning for consonant recognition.** Y Zhu, P Feng, S Yi, Q Qu, and Z Yu. *Research Square.* (2024) [[link]](https://www.researchsquare.com/article/rs-3978261/v1)
+- **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
+- **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
 
 
 ## Contributing
