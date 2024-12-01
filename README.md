@@ -96,14 +96,26 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological analysis of aver- aged sentence embeddings.** Wesley J Holmes. *Master’s thesis, Wright State University.* [[link]](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=wright1609351352688467)
 - **Topological data analysis for word sense disambiguation.** Michael Rawson, Samuel Dooley, Mithun Bharadwaj, and Rishabh Choudhary. *arXiv preprint arXiv:2203.00565.* (2022) [[link]](https://arxiv.org/abs/2203.00565)
 - **Local homology of word embeddings.** Tadas Tƒemˇcinas. *arXiv preprint arXiv:1810.10136.* (2018) [[link]](https://arxiv.org/abs/1810.10136)
-- **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics, 13(18):3781.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
+- **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
 - **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2020) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
-- **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research, 3:308–328.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
+- **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 
 **GloVe**
+- **Topological signature of 19th century novelists: Persistent homology in text mining.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *Big Data and Cognitive Computing* (2018) [[link]](https://www.mdpi.com/2504-2289/2/4/33)
+- **A novel method of extracting topological features from word embeddings.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *arXiv preprint arXiv:2003.13074.* (2020) [[link]](https://arxiv.org/abs/2003.13074)
+- **Topological interpretability for deep learning.** Adam Spannaus, Heidi A Hanson, Georgia Tourassi, and Lynne Penberthy. *Proceedings of the Platform for Advanced Scientific Computing Conference.* (2024) [[link]](https://dl.acm.org/doi/abs/10.1145/3659914.3659935?casa_token=Wy1AFtY9xYEAAAAA:1o0Yj0toy6mKpEYhOVvLxJMTEkr_csBtq7UeRX3kUkN08kfWh9O4B-L16FaaPRpcFjrjtz2dzXwx)
+- **A note on argumentative topology: Circularity and syllogisms as unsolved problems.** Wlodek W Zadrozny. *arXiv preprint arXiv:2102.03874.* (2021) [[link]](https://arxiv.org/abs/2102.03874)
+- **The Hidden Shape of Data: Topological Data Analysis for Anxiety Detection in Text.** Morgan Byers. *Ph.D. thesis, Texas State University.* (2021) [[link]](https://digital.library.txst.edu/server/api/core/bitstreams/bc96a6c7-7a67-4d30-b1c3-e8ebac22e33e/content)
+- **Unsupervised geometric and topological approaches for cross-lingual sentence representation and comparison.** Shaked Haim Meirom and Omer Bobrowski. *Proceedings of the 7th Workshop on Representation Learning for NLP @ ACL 2022* (2022) [[link]](https://aclanthology.org/2022.repl4nlp-1.18/)
+- **Abstraction, reasoning and deep learning: A study of the" look and say" sequence.** Wlodek W Zadrozny. *arXiv preprint arXiv:2109.12755.* (2021) [[link]](https://arxiv.org/abs/2109.12755)
+- **Topological data analysis helps to improve accuracy of deep learning models for fake news detection trained on very small training sets.** Ran Deng and Fedor Duzhin. *Big Data and Cognitive Computing* (2022) [[link]](https://www.mdpi.com/2504-2289/6/3/74)
+- **Network and topological analysis of scholarly metadata: A platform to model and predict collaboration.** Lance Novak. *Master’s thesis, Purdue University.* (2019) [[link]](https://www.proquest.com/docview/2827703668?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
 **FastText**
+- **Topology of word embeddings: Sin- gularities reflect polysemy.** Alexander Jakubowski, Milica Gasic, and Marcus Zibrowius. *Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics* (2020) [[link]](https://aclanthology.org/2020.starsem-1.11/)
+- **Analysis of word embeddings: A clustering and topological approach.** Jonas Folkvord Triki. *Master’s thesis, The University of Bergen.* (2021) [[link]](https://bora.uib.no/bora-xmlui/handle/11250/2769947)
+- **An analysis of the effect of polysemy on the topology of the latent manifold.** Denis Shehu. *Master’s thesis, Eindhoven University of Technology.* (2024) [[link]](https://pure.tue.nl/ws/portalfiles/portal/333617770/Shehu_D.pdf)
 
 **ELMo**
 
