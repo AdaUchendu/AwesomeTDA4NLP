@@ -88,6 +88,18 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 #### 2b. Pre-trained Embeddings 
 **Word2Vec**
+- **Story trees: Representing documents using topological persistence.** Pantea Haghighatkhah, Antske Fokkens, Pia Sommerauer, Bettina Speckmann, and Kevin Verbeek. *Proceedings of the Thirteenth LREC 2022* (2022) [[link]](https://aclanthology.org/2022.lrec-1.258/)
+- **Topological analysis of contradictions in text.** Xiangcheng Wu, Xi Niu, and Ruhani Rahman. *Proceedings of the 45th International ACM SIGIR.* (2022) [[link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531881)
+- **Comparison of word embeddings of unaligned audio and text data using persistent homology.** Zhandos Yessenbayev and Zhanibek Kozhirbayev. *International Conference on Speech and Computer.* (2022) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-20980-2_59)
+- **Use of riemannian distance metric to verify topological similarity of acoustic and text domains.** Zhandos Yessenbayev and Zhanibek Kozhirbayev. *International Conference on Artificial Neural Networks.* (2024) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-72350-6_25)
+- **An explainable topological search engine with giotto-tda.** Filip Cornell. *gtda-challenge-2020.* (2020) [[link]](https://github.com/giotto-ai/gtda-challenge-2020/blob/master/filco306/A_topological_search_engine.ipynb)
+- **Topological analysis of aver- aged sentence embeddings.** Wesley J Holmes. *Master’s thesis, Wright State University.* [[link]](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=wright1609351352688467)
+- **Topological data analysis for word sense disambiguation.** Michael Rawson, Samuel Dooley, Mithun Bharadwaj, and Rishabh Choudhary. *arXiv preprint arXiv:2203.00565.* (2022) [[link]](https://arxiv.org/abs/2203.00565)
+- **Local homology of word embeddings.** Tadas Tƒemˇcinas. *arXiv preprint arXiv:1810.10136.* (2018) [[link]](https://arxiv.org/abs/1810.10136)
+- **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics, 13(18):3781.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
+- **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2020) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
+- **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research, 3:308–328.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
+- **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 
 **GloVe**
 
