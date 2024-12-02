@@ -14,13 +14,13 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 
 ## BibTex
-```
+```bibtex
 @article{uchendu2024unveiling,
   title={Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP},
   author={Uchendu, Adaku and Le, Thai},
   journal={arXiv preprint arXiv:2411.10298},
   year={2024},
-  url={https://arxiv.org/abs/2411.10298}, 
+  url={https://arxiv.org/abs/2411.10298} 
 }
 ```
 
