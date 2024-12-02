@@ -1,4 +1,7 @@
-# [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/abs/2411.10298)
+# Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP
+
+[![Arxiv](https://img.shields.io/badge/Arxiv-2411.10298-orange)](https://arxiv.org/abs/2411.10298)
+
 
 ## Overview
 The surge of data available on the internet has led to the adoption of various computational methods to analyze and extract valuable insights from this wealth of information. 
