@@ -13,7 +13,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 ![PDF file](tda_flow.png)
 
 
-## BibTex
+## How to cite the Repo or Paper
 ```bibtex
 @article{uchendu2024unveiling,
   title={Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP},
