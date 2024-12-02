@@ -29,11 +29,18 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - [Paper List](#paper-list)
   - [1. Theoretical Approaches](#1-theoretical-approaches)
     - [1a. Topological Space](#1a-topological-space)
+      - [Semantic Topological Space](#semantic-topological-space)
+      - [Syntactic Topological Space](#syntactic-topological-space)
     - [1b. Topology of Topic Evolution](#1b-topology-of-topic-evolution)
     - [1c. Topological "Shape" of Words](#1c-topological-shape-of-words)
   - [2. Non-Theoretical Approaches](#2-non-theoretical-approaches)
     - [2a. TF-IDF](#2a-tf-idf)
     - [2b. Pre-trained Embeddings](#2b-pre-trained-embeddings)
+      - [Word2Vec](#word2vec)
+      - [GloVe](#glove)
+      - [FastText](#fasttext)
+      - [ELMo](#elmo)
+      - [Transformers](#transformers)
     - [2c. Symbolic Representation](#2c-symbolic-representation)
     - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
 
@@ -49,13 +56,13 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 #### 1a. Topological Space
 
-**Semantic Topological Space**
+#### **Semantic Topological Space**
 - **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* (2007) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 - **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* (2014) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 - **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* (2017) [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
 - **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 
-**Syntactic Topological Space**
+##### **Syntactic Topological Space**
 - **Persistent topology of syntax.** Alexander Port, Iulia Gheorghita, Daniel Guth, John M Clark, Crystal Liang, Shival Dasu, and Matilde Marcolli. *Mathematics in Computer Science.* (2018) [[link]](https://link.springer.com/article/10.1007/s11786-017-0329-x) 
 - **Topological analysis of syntactic structures.** Alexander Port, Taelin Karidi, and Matilde Marcolli. *Mathematics in Computer Science* (2022) [[link]](https://link.springer.com/article/10.1007/s11786-021-00520-5)
   
@@ -88,7 +95,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **The shape of poems.** Lamis Maadarani and Sayonita Ghosh Hajra. *Sac State Scholars' Fall Poster Forum* [[link]](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01CALS_USL/storage/alma/B9/EE/E1/5F/09/E1/D1/AD/9F/1D/2A/1A/7B/5F/1C/40/Maadarani_Lamis_FallPosterForum2019.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241130T212253Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=10d7cec232eba4cf1eb22800616c78c77838358a9dd8d72504751e620e96de6d)
 
 #### 2b. Pre-trained Embeddings 
-**Word2Vec**
+#### **Word2Vec**
 - **Story trees: Representing documents using topological persistence.** Pantea Haghighatkhah, Antske Fokkens, Pia Sommerauer, Bettina Speckmann, and Kevin Verbeek. *Proceedings of the Thirteenth LREC 2022* (2022) [[link]](https://aclanthology.org/2022.lrec-1.258/)
 - **Topological analysis of contradictions in text.** Xiangcheng Wu, Xi Niu, and Ruhani Rahman. *Proceedings of the 45th International ACM SIGIR.* (2022) [[link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531881)
 - **Comparison of word embeddings of unaligned audio and text data using persistent homology.** Zhandos Yessenbayev and Zhanibek Kozhirbayev. *International Conference on Speech and Computer.* (2022) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-20980-2_59)
@@ -102,7 +109,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 
-**GloVe**
+#### **GloVe**
 - **Topological signature of 19th century novelists: Persistent homology in text mining.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *Big Data and Cognitive Computing* (2018) [[link]](https://www.mdpi.com/2504-2289/2/4/33)
 - **A novel method of extracting topological features from word embeddings.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *arXiv preprint arXiv:2003.13074.* (2020) [[link]](https://arxiv.org/abs/2003.13074)
 - **Topological interpretability for deep learning.** Adam Spannaus, Heidi A Hanson, Georgia Tourassi, and Lynne Penberthy. *Proceedings of the Platform for Advanced Scientific Computing Conference.* (2024) [[link]](https://dl.acm.org/doi/abs/10.1145/3659914.3659935?casa_token=Wy1AFtY9xYEAAAAA:1o0Yj0toy6mKpEYhOVvLxJMTEkr_csBtq7UeRX3kUkN08kfWh9O4B-L16FaaPRpcFjrjtz2dzXwx)
@@ -113,16 +120,16 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological data analysis helps to improve accuracy of deep learning models for fake news detection trained on very small training sets.** Ran Deng and Fedor Duzhin. *Big Data and Cognitive Computing* (2022) [[link]](https://www.mdpi.com/2504-2289/6/3/74)
 - **Network and topological analysis of scholarly metadata: A platform to model and predict collaboration.** Lance Novak. *Master’s thesis, Purdue University.* (2019) [[link]](https://www.proquest.com/docview/2827703668?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
-**FastText**
+#### **FastText**
 - **Topology of word embeddings: Sin- gularities reflect polysemy.** Alexander Jakubowski, Milica Gasic, and Marcus Zibrowius. *Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics* (2020) [[link]](https://aclanthology.org/2020.starsem-1.11/)
 - **Analysis of word embeddings: A clustering and topological approach.** Jonas Folkvord Triki. *Master’s thesis, The University of Bergen.* (2021) [[link]](https://bora.uib.no/bora-xmlui/handle/11250/2769947)
 - **An analysis of the effect of polysemy on the topology of the latent manifold.** Denis Shehu. *Master’s thesis, Eindhoven University of Technology.* (2024) [[link]](https://pure.tue.nl/ws/portalfiles/portal/333617770/Shehu_D.pdf)
 
-**ELMo**
+#### **ELMo**
 - **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2021) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
 
 
-**Transformers**
+#### **Transformers**
 
 *CLS*
 - **Intrinsic dimension estimation for robust detection of ai-generated texts.** Eduard Tulchinskii, Kristian Kuznetsov, Laida Kushnareva, Daniil Cherniavskii, Sergey Nikolenko, Evgeny Burnaev, Serguei Barannikov, and Irina Piontkovskaya. *Advances in Neural Information Processing Systems.* (2024) [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7baa48bc166aa2013d78cbdc15010530-Abstract-Conference.html)
