@@ -104,7 +104,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Comparison of word embeddings of unaligned audio and text data using persistent homology.** Zhandos Yessenbayev and Zhanibek Kozhirbayev. *International Conference on Speech and Computer.* (2022) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-20980-2_59)
 - **Use of riemannian distance metric to verify topological similarity of acoustic and text domains.** Zhandos Yessenbayev and Zhanibek Kozhirbayev. *International Conference on Artificial Neural Networks.* (2024) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-72350-6_25)
 - **An explainable topological search engine with giotto-tda.** Filip Cornell. *gtda-challenge-2020.* (2020) [[link]](https://github.com/giotto-ai/gtda-challenge-2020/blob/master/filco306/A_topological_search_engine.ipynb)
-- **Topological analysis of aver- aged sentence embeddings.** Wesley J Holmes. *Master’s thesis, Wright State University.* [[link]](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=wright1609351352688467)
+- **Topological analysis of averaged sentence embeddings.** Wesley J Holmes. *Master’s thesis, Wright State University.* [[link]](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=wright1609351352688467)
 - **Topological data analysis for word sense disambiguation.** Michael Rawson, Samuel Dooley, Mithun Bharadwaj, and Rishabh Choudhary. *arXiv preprint arXiv:2203.00565.* (2022) [[link]](https://arxiv.org/abs/2203.00565)
 - **Local homology of word embeddings.** Tadas Tƒemˇcinas. *arXiv preprint arXiv:1810.10136.* (2018) [[link]](https://arxiv.org/abs/1810.10136)
 - **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
@@ -124,7 +124,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Network and topological analysis of scholarly metadata: A platform to model and predict collaboration.** Lance Novak. *Master’s thesis, Purdue University.* (2019) [[link]](https://www.proquest.com/docview/2827703668?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
 
 #### **FastText**
-- **Topology of word embeddings: Sin- gularities reflect polysemy.** Alexander Jakubowski, Milica Gasic, and Marcus Zibrowius. *Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics* (2020) [[link]](https://aclanthology.org/2020.starsem-1.11/)
+- **Topology of word embeddings: Singularities reflect polysemy.** Alexander Jakubowski, Milica Gasic, and Marcus Zibrowius. *Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics* (2020) [[link]](https://aclanthology.org/2020.starsem-1.11/)
 - **Analysis of word embeddings: A clustering and topological approach.** Jonas Folkvord Triki. *Master’s thesis, The University of Bergen.* (2021) [[link]](https://bora.uib.no/bora-xmlui/handle/11250/2769947)
 - **An analysis of the effect of polysemy on the topology of the latent manifold.** Denis Shehu. *Master’s thesis, Eindhoven University of Technology.* (2024) [[link]](https://pure.tue.nl/ws/portalfiles/portal/333617770/Shehu_D.pdf)
 
