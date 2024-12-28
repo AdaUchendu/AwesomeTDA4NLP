@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding 87 papers we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding 89 papers we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -87,6 +87,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Text Classification via Topological Data Analysis.** Bendik Løvlie. *Master’s thesis, Norwegian University of Science and Technology (NTNU)* (2023) [[link]](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3080989/no.ntnu%3Ainspera%3A142441053%3A34433481.pdf?sequence=1)
 - **Movie genre detection using topological data analysis.** Pratik Doshi and Wlodek Zadrozny. *Statistical Language and Speech Processing: 6th International Conference, SLSP 2018* (2018) [[link]](https://link.springer.com/chapter/10.1007/978-3-030-00810-9_11)
 - **Genre classification: A topological data analysis approach.** Kevin Shin. (2019) [[link]](https://github.com/kevin-shin/TopologyNLP)
+- **Text Mining via Homology.** Blaž Sovdat. *Master's thesis, UNIVERSITY OF LJUBLJANA* (2016) [[link]](https://www.researchgate.net/profile/Blaz-Sovdat/publication/305993593_Text_Mining_via_Homology/links/57a8f8cc08ae0107eee71812/Text-Mining-via-Homology.pdf)
 - **Topological data analysis for discourse semantics?** Ketki Savle, Wlodek Zadrozny, and Minwoo Lee. *Proceedings of the 13th International Conference on Computational Semantics-Student Papers* (2019) [[link]](https://aclanthology.org/W19-0605/)
 - **Does the geometry of word embeddings help document classification?** Paul Michel, Abhilasha Ravichander, and Shruti Rijhwani. *Proceedings of the 2nd Workshop on Representation Learning for NLP.* (2017) [[link]](https://aclanthology.org/W17-2628/)
 - **A topological collapse for document summarization.** Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic. *2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC).* (2016) [[link]](https://ieeexplore.ieee.org/abstract/document/7536867?casa_token=yPYmyL1A6qwAAAAA:aVh63dwqFeXTjDi8kXnAFYuwlNvjsYv10S0japLvS94ihs14-wo_1VCtZCBboPd2RTXhq4x4)
@@ -164,6 +165,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **The topological bert: Transforming attention into topology for natural language processing.** Ilan Perez and Raphael Reinauer. *arXiv preprint arXiv:2206.15195.* (2022) [[link]](https://arxiv.org/abs/2206.15195)
 - **Detecting out-of-distribution text using topological features of transformer-based language models.** Andres Pollano, Anupam Chaudhuri, and Anj Simmons. *The IJCAI-2024 AISafety Workshop.* (2024) [[link]](https://arxiv.org/abs/2311.13102)
 - **Diversity-aware ensembling of language models based on topological data analysis.** Polina Proskura and Alexey Zaytsev. *arXiv preprint arXiv:2402.14184.* (2024) [[link]](https://arxiv.org/abs/2402.14184)
+- **Vulnerability Detection via Topological Analysis of Attention Maps.** Pavel Snopov and Andrey Nikolaevich Golubinskiy. *arXiv preprint arXiv:2410.03470* (2024) [[link]](https://arxiv.org/pdf/2410.03470)
 - **Topological data analysis for speech processing.** Eduard Tulchinskii, Kristian Kuznetsov, Daniil Cherniavskii, Serguei Barannikov, Sergey Nikolenko, and Evgeny Burnaev. *Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH.* (2023) [[link]](https://www.isca-archive.org/interspeech_2023/tulchinskii23_interspeech.pdf)
 - **Dialogue term extraction using transfer learning and topological data analysis.** Renato Vukovic, Michael Heck, Benjamin Ruppik, Carel van Niekerk, Marcus Zibrowius, and Milica Gasic. *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* (2022) [[link]](https://aclanthology.org/2022.sigdial-1.53/)
 
