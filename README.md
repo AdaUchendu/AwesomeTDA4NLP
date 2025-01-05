@@ -111,6 +111,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Geometry of textual data augmentation: Insights from large language models.** Sherry JH Feng, Edmund MK Lai, and Weihua Li. *Electronics.* (2024) [[link]](https://www.mdpi.com/2079-9292/13/18/3781)
 - **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2021) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
 - **Topological data analysis on simple english wikipedia articles.** Matthew Wright and Xiaojun Zheng. *The PUMP Journal of Undergraduate Research.* (2020) [[link]](https://arxiv.org/abs/2007.00063)
+- **Argumentative topology: Finding loop (holes) in logic.** Sarah Tymochko, Zachary New, Lucius Bynum, Emilie Purvine, Timothy Doster, Julien Chaput, and Tegan Emerson. *arXiv preprint arXiv:2011.08952.* (2020) [[link]](https://arxiv.org/pdf/2011.08952) 
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 
 #### **GloVe**
