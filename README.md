@@ -178,7 +178,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 
 #### 2d. Multi-Modal Representation
-- **Topological data analysis of human vowels: Persistent homologies across representation spaces.** Guillem Bonafos, Jean-Marc Freyermuth, Pierre Pudlo, Samuel Tronçon, and Arnaud Rey. *arXiv preprint arXiv:2310.06508.* [[link]](https://arxiv.org/abs/2310.06508)
+- **Topological data analysis of human vowels: Persistent homologies across representation spaces.** Guillem Bonafos, Jean-Marc Freyermuth, Pierre Pudlo, Samuel Tronçon, and Arnaud Rey. *arXiv preprint arXiv:2310.06508.* (2023) [[link]](https://arxiv.org/abs/2310.06508)
 - **Dirichlet process mixture model based on topologically augmented signal representation for clustering infant vocalizations.** Guillem Bonafos, Clara Bourot, Pierre Pudlo, Jean-Marc Freyermuth, Laurence Reboul, Samuel
 Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-archive.org/interspeech_2024/bonafos24_interspeech.pdf)
 - **Towards emotion recognition: a persistent entropy application.** Rocio Gonzalez-Diaz, Eduardo Paluzo-Hidalgo, and José F Quesada. *Computational Topology in Image Context: 7th International Workshop, CTIC 2019.* (2019) [[link]](https://link.springer.com/chapter/10.1007/978-3-030-10828-1_8)
