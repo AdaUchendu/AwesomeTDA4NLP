@@ -47,6 +47,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
     - [2c. Symbolic Representation](#2c-symbolic-representation)
     - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
 
+- [Tutorials](#tutorials)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -187,6 +188,12 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Topology-enhanced machine learning for consonant recognition.** Y Zhu, P Feng, S Yi, Q Qu, and Z Yu. *Research Square.* (2024) [[link]](https://www.researchsquare.com/article/rs-3978261/v1)
 - **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
 - **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
+
+
+## Tutorials
+- **A Tutorial on Topological Data Analysis in Text Mining.** Shafie Gholizadeh, Wlodek Zadrozny. *IEEE BigData 2020.* (2020) [[link](https://bigdataieee.org/BigData2020/files/IEEE_BigData_2020_Tutorial5_TDA_Tutorial.pdf)
+- **Topological Data Analysis in Natural Language Processing - A Tutorial.** Wlodek Zadrozny. *The International FLAIRS Conference Proceedings (FLAIRS-36).* (2023) [[link]](https://www.researchgate.net/publication/370838263_A_Tutorial_on_Topological_Data_Analysis_in_Natural_Language_Processing)
+
 
 ## Resources
 To learn more about TDA techniques, libraries for implementing TDA in Python, R, etc., and TDA conferences, workshops, or seminars, go to [FatemehTarashi's TDA repo](https://github.com/FatemehTarashi/awesome-tda)
