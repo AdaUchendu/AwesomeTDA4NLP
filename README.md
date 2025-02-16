@@ -157,6 +157,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Relative representations: Topological and geometric perspectives.** Alejandro García-Castellanos, Giovanni Luca Marchetti, Danica Kragic, and Martina Scolamiero. *arXiv preprint arXiv:2409.10967.* (2024) [[link]](https://arxiv.org/abs/2409.10967)
 - **Local topology measures of contextual language model latent spaces with applications to dialogue term extraction.** Benjamin Matthias Ruppik, Michael Heck, Carel van Niekerk, Renato Vukovic, Hsien-chin Lin, Shutong Feng, Marcus Zibrowius, and Milica Gaši´c. *Proceedings of the 25th Meeting of the Special Interest Group on Discourse and Dialogue.* (2024) [[link]](https://aclanthology.org/2024.sigdial-1.31/)
 - **The more polypersonal the better - A short look on space geometry of fine-tuned layers.** Sergei Kudriashov, Veronika Zykova, Angelina Stepanova, Jacob Raskind, and Eduard Klyshinsky. *International Conference on Neuroinformatics.* (2024) [[link]](https://publications.hse.ru/en/chapters/979170791)
+- **A Green AI Methodology Based on Persistent Homology for Compressing BERT** Luis Balderas, Miguel Lastra, and José M. Benítez. *Applied Sciences.* (2025) [[link]](https://www.mdpi.com/2076-3417/15/1/390)
+
 
 *Attention*
 - **Artificial text detection via examining the topology of attention maps.** Laida Kushnareva, Daniil Cherniavskii, Vladislav Mikhailov, Ekaterina Artemova, Serguei Barannikov, Alexander Bernstein, Irina Piontkovskaya, Dmitri Piontkovski, and Evgeny Burnaev. *Proceedings of the 2021 EMNLP* (2021) [[link]](https://aclanthology.org/2021.emnlp-main.50/)
