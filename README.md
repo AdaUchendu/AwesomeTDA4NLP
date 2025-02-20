@@ -192,7 +192,7 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 
 
 ## Tutorials
-- **A Tutorial on Topological Data Analysis in Text Mining.** Shafie Gholizadeh, Wlodek Zadrozny. *IEEE BigData 2020.* (2020) [[link](https://bigdataieee.org/BigData2020/files/IEEE_BigData_2020_Tutorial5_TDA_Tutorial.pdf)
+- **A Tutorial on Topological Data Analysis in Text Mining.** Shafie Gholizadeh, Wlodek Zadrozny. *IEEE BigData 2020.* (2020) [[link]](https://bigdataieee.org/BigData2020/files/IEEE_BigData_2020_Tutorial5_TDA_Tutorial.pdf)
 - **Topological Data Analysis in Natural Language Processing - A Tutorial.** Wlodek Zadrozny. *The International FLAIRS Conference Proceedings (FLAIRS-36).* (2023) [[link]](https://www.researchgate.net/publication/370838263_A_Tutorial_on_Topological_Data_Analysis_in_Natural_Language_Processing)
 
 
