@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **88 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **91 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -80,6 +80,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **The shape of words-topological structure in natural language data.** Stephen Fitz. *Topological, Algebraic, and Geometric Learning Workshops 2022.* (2022) [[link]](https://proceedings.mlr.press/v196/fitz22a.html)
 - **Hidden holes: topological aspects of language models.** Stephen Fitz, Peter Romero, and Jiyan Jonas Schneider. *arXiv preprint arXiv:2406.05798.* (2024) [[link]](https://arxiv.org/pdf/2406.05798)
 - **Linguistics from a topological viewpoint.** Rui Dong. *arXiv preprint arXiv:2403.15440.* (2024) [[link]](https://arxiv.org/abs/2403.15440)
+- **An application of persistent homology and the graph theory to linguistics: The case of Tifinagh and Phoenician scripts.** Hajar Bouazzaoui, Mohamed Abdou Elomary, My Ismail Mamouni. *Statistics in Transition new series 22.3.* (2021) [[link]](https://web.archive.org/web/20220519112014id_/https://www.exeley.com/exeley/journals/statistics_in_transition/22/3/pdf/10.21307_stattrans-2021-031.pdf) 
+
 
 ### 2. Non-theoretical Approaches
 
@@ -158,6 +160,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Local topology measures of contextual language model latent spaces with applications to dialogue term extraction.** Benjamin Matthias Ruppik, Michael Heck, Carel van Niekerk, Renato Vukovic, Hsien-chin Lin, Shutong Feng, Marcus Zibrowius, and Milica Gaši´c. *Proceedings of the 25th Meeting of the Special Interest Group on Discourse and Dialogue.* (2024) [[link]](https://aclanthology.org/2024.sigdial-1.31/)
 - **The more polypersonal the better - A short look on space geometry of fine-tuned layers.** Sergei Kudriashov, Veronika Zykova, Angelina Stepanova, Jacob Raskind, and Eduard Klyshinsky. *International Conference on Neuroinformatics.* (2024) [[link]](https://publications.hse.ru/en/chapters/979170791)
 - **A Green AI Methodology Based on Persistent Homology for Compressing BERT** Luis Balderas, Miguel Lastra, and José M. Benítez. *Applied Sciences.* (2025) [[link]](https://www.mdpi.com/2076-3417/15/1/390)
+- **Topological Data Mapping of Online Hate Speech, Misinformation, and General Mental Health: A Large Language Model Based Study.** Alexander, Andrew, and Hongbin Wang. *arXiv preprint arXiv:2309.13098.* (2023) [[link]](https://arxiv.org/pdf/2309.13098) 
 
 
 *Attention*
@@ -172,6 +175,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Vulnerability Detection via Topological Analysis of Attention Maps.** Pavel Snopov and Andrey Nikolaevich Golubinskiy. *arXiv preprint arXiv:2410.03470* (2024) [[link]](https://arxiv.org/pdf/2410.03470)
 - **Topological data analysis for speech processing.** Eduard Tulchinskii, Kristian Kuznetsov, Daniil Cherniavskii, Serguei Barannikov, Sergey Nikolenko, and Evgeny Burnaev. *Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH.* (2023) [[link]](https://www.isca-archive.org/interspeech_2023/tulchinskii23_interspeech.pdf)
 - **Dialogue term extraction using transfer learning and topological data analysis.** Renato Vukovic, Michael Heck, Benjamin Ruppik, Carel van Niekerk, Marcus Zibrowius, and Milica Gasic. *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* (2022) [[link]](https://aclanthology.org/2022.sigdial-1.53/)
+- **Authorship Attribution by Attention Pattern of BERT with Topological Data Analysis and UMAP.** Wataru Sakurai, Masato Asano, Daisuke Imoto, Masakatsu Honma, and Kenji Kurosawa. *2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/10920755?casa_token=BFPmwK4v3scAAAAA:iwfpffUEe7Cbg26dEp6AuOHfgDb2Fj5A07XUi5vU1GPx8o34sdDXI7ccLl_A-NiFfZ4rW9W5)
 
 
 #### 2c. Symbolic Representation
