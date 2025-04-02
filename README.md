@@ -201,7 +201,7 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 
 
 ## Resources
-To learn more about TDA techniques, libraries for implementing TDA in Python, R, etc., and TDA conferences, workshops, or seminars, go to [FatemehTarashi's TDA repo](https://github.com/FatemehTarashi/awesome-tda)
+To learn more about TDA techniques, libraries for implementing TDA in Python, R, etc., go to [FatemehTarashi's TDA repo](https://github.com/FatemehTarashi/awesome-tda) and [list of conferences and workshops](https://people.clas.ufl.edu/peterbubenik/conferences/)
 
 ## Contributing
 We welcome contributions from the community. If you have a paper applying TDA in NLP tasks, please submit a pull request or open an issue.
