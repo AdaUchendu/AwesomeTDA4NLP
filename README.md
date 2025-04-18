@@ -177,6 +177,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological data analysis for speech processing.** Eduard Tulchinskii, Kristian Kuznetsov, Daniil Cherniavskii, Serguei Barannikov, Sergey Nikolenko, and Evgeny Burnaev. *Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH.* (2023) [[link]](https://www.isca-archive.org/interspeech_2023/tulchinskii23_interspeech.pdf)
 - **Dialogue term extraction using transfer learning and topological data analysis.** Renato Vukovic, Michael Heck, Benjamin Ruppik, Carel van Niekerk, Marcus Zibrowius, and Milica Gasic. *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* (2022) [[link]](https://aclanthology.org/2022.sigdial-1.53/)
 - **Authorship Attribution by Attention Pattern of BERT with Topological Data Analysis and UMAP.** Wataru Sakurai, Masato Asano, Daisuke Imoto, Masakatsu Honma, and Kenji Kurosawa. *2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/10920755?casa_token=BFPmwK4v3scAAAAA:iwfpffUEe7Cbg26dEp6AuOHfgDb2Fj5A07XUi5vU1GPx8o34sdDXI7ccLl_A-NiFfZ4rW9W5)
+- **Hallucination Detection in LLMs via Topological Divergence on Attention Graphs.** Alexandra Bazarova, Aleksandr Yugay, Andrey Shulga, Alina Ermilova, Andrei Volodichev, Konstantin Polev, Julia Belikova, Rauf Parchiev, Dmitry Simakov, Maxim Savchenko, Andrey Savchenko, Serguei Barannikov, Alexey Zaytsev. *arxiv preprint arXiv:2504.10063.* (2025) [[link]](https://arxiv.org/pdf/2504.10063)
+
 
 
 #### 2c. Symbolic Representation
