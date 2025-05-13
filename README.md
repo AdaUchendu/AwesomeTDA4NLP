@@ -149,6 +149,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Persistence homology of tedtalk: Do sentence embeddings have a topological shape?** Shouman Das, Syed A Haque, and Md Iftekhar Tanveer. *arXiv preprint arXiv:2103.14131.* (2021) [[link]](https://arxiv.org/abs/2103.14131) 
 - **Topic modeling with topological data analysis.** Ciarán Byrne, Danijela Horak, Karo Moilanen, and Amandla Mabona. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* (2022) [[link]](https://aclanthology.org/2022.emnlp-main.792/)
 - **Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion.** Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau. *arXiv preprint arXiv:2504.02873* (2025) [[link]](https://arxiv.org/pdf/2504.02873)
+- **Topological Data Analysis for Distinguishing Human Written and AI Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
 
 
 *Hidden*
