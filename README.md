@@ -117,6 +117,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Argumentative topology: Finding loop (holes) in logic.** Sarah Tymochko, Zachary New, Lucius Bynum, Emilie Purvine, Timothy Doster, Julien Chaput, and Tegan Emerson. *arXiv preprint arXiv:2011.08952.* (2020) [[link]](https://arxiv.org/pdf/2011.08952)
 - **Prediction of disease type from topological features of time series.** Giovanni Petri and Antonio Leitao. *gtda-challenge-2020.* (2020) [[link]](https://github.com/giotto-ai/gtda-challenge-2020/blob/master/lordgrilo/symbolic-disease-prediction.ipynb)
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
+- **Detecting Narrative Shifts through Persistent Structures: A Topological Analysis of Media Discourse.** Mark M. Bailey, Mark I. Heiligman. *arXiv preprint arXiv:2506.14836.* (2025) [[link]](https://arxiv.org/pdf/2506.14836)
 
 #### **GloVe**
 - **Topological signature of 19th century novelists: Persistent homology in text mining.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *Big Data and Cognitive Computing* (2018) [[link]](https://www.mdpi.com/2504-2289/2/4/33)
@@ -149,7 +150,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Persistence homology of tedtalk: Do sentence embeddings have a topological shape?** Shouman Das, Syed A Haque, and Md Iftekhar Tanveer. *arXiv preprint arXiv:2103.14131.* (2021) [[link]](https://arxiv.org/abs/2103.14131) 
 - **Topic modeling with topological data analysis.** Ciarán Byrne, Danijela Horak, Karo Moilanen, and Amandla Mabona. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* (2022) [[link]](https://aclanthology.org/2022.emnlp-main.792/)
 - **Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion.** Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau. *arXiv preprint arXiv:2504.02873* (2025) [[link]](https://arxiv.org/pdf/2504.02873)
-- **Topological Data Analysis for Distinguishing Human Written and AI Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
+- **Topological Data Analysis for Distinguishing Human-Written and AI-Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
+- **Topo Goes Political: TDA-Based Controversy Detection in Imbalanced Reddit Political Data.** Arvindh Arun, Karuna K Chandra, Akshit Sinha, Balakumar Velayutham, Jashn Arora, Manish Jain, Ponnurangam Kumaraguru. *Companion Proceedings of the ACM on Web Conference 2025.* (2025) [[link]](https://dl.acm.org/doi/abs/10.1145/3701716.3717535)
 
 
 *Hidden*
