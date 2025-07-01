@@ -63,6 +63,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 #### **Semantic Topological Space**
 - **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* (2014) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 - **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* (2017) [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
+- **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 
 #### **Syntactic Topological Space**
 - **Persistent topology of syntax.** Alexander Port, Iulia Gheorghita, Daniel Guth, John M Clark, Crystal Liang, Shival Dasu, and Matilde Marcolli. *Mathematics in Computer Science.* (2018) [[link]](https://link.springer.com/article/10.1007/s11786-017-0329-x) 
@@ -204,7 +205,9 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 
 ## Other non-TDA Topological Approaches in NLP
 - **Discover the semantic topology in high-dimensional data.** IJ Chiang. *Expert Systems with Applications 33.1: 256-262* (2007) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
-- **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
+- **A topological semantics of dialogue: Nerve structures and logical extraction.** Andreu Ballus Santacana. *arXiv Preprint arXiv:2506.00615.* (2025) [[link]](https://arxiv.org/pdf/2506.00615)
+- **Generative topolinguistics: Bidirectional interfaces for emergent language topologies.** Iulia Ionescu, Jenn Leung, Yannis Siglidis. *Antikythera: Journal for the Philosophy of Planetary Computation.* (2025) [[link]](https://ualresearchonline.arts.ac.uk/id/eprint/24037/1/GenerativeTopolinguistics.pdf)
+- **Trees and after: The concept of text topology.** Xuan Luong, Michel Juillard, Sylvie Mellet, and Dominique Longrée. *Literary and Linguistic Computing, 22(2):167–186.* (2007) [[link]](https://academic.oup.com/dsh/article-abstract/22/2/167/940444)
 
 
 ## Tutorials
