@@ -148,7 +148,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Combining topological signature with text embeddings: Multi-modal approach to fake news detection.** Rachel Lavery, Anna Jurek-Loughrey, and Lu Bai. *35th Irish Signals and Systems Conference (ISSC)* (2024) [[link]](https://ieeexplore.ieee.org/abstract/document/10603336?casa_token=KudZzv9Ylz8AAAAA:RUcUL17eaT7Qq-DBQEN8NadxwSWdbZ0BDUitk0D5zBkah26UJ4Dgvh2r5np2sKbv02fK5lhY)
 - **Persistence homology of tedtalk: Do sentence embeddings have a topological shape?** Shouman Das, Syed A Haque, and Md Iftekhar Tanveer. *arXiv preprint arXiv:2103.14131.* (2021) [[link]](https://arxiv.org/abs/2103.14131) 
 - **Topic modeling with topological data analysis.** Ciarán Byrne, Danijela Horak, Karo Moilanen, and Amandla Mabona. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* (2022) [[link]](https://aclanthology.org/2022.emnlp-main.792/)
-- **Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion.** Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau. *arXiv preprint arXiv:2504.02873* (2025) [[link]](https://arxiv.org/pdf/2504.02873)
+- **Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion.** Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau. *COLM* (2025) [[link]](https://arxiv.org/pdf/2504.02873)
 - **Topological Data Analysis for Distinguishing Human-Written and AI-Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
 - **Topo Goes Political: TDA-Based Controversy Detection in Imbalanced Reddit Political Data.** Arvindh Arun, Karuna K Chandra, Akshit Sinha, Balakumar Velayutham, Jashn Arora, Manish Jain, Ponnurangam Kumaraguru. *Companion Proceedings of the ACM on Web Conference 2025.* (2025) [[link]](https://dl.acm.org/doi/abs/10.1145/3701716.3717535)
 
@@ -200,7 +200,7 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Topology-enhanced machine learning for consonant recognition.** Y Zhu, P Feng, S Yi, Q Qu, and Z Yu. *Research Square.* (2024) [[link]](https://www.researchsquare.com/article/rs-3978261/v1)
 - **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
 - **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
-- **Topological Signatures of Adversaries in Multimodal Alignments.** Minh Vu, Geigh Zollicoffer, Huy Mai, Ben Nebgen, Boian Alexandrov, Manish Bhattarai. *arXiv preprint arXiv:2501.18006.* (2025) [[link]](https://arxiv.org/pdf/2501.18006)
+- **Topological Signatures of Adversaries in Multimodal Alignments.** Minh Vu, Geigh Zollicoffer, Huy Mai, Ben Nebgen, Boian Alexandrov, Manish Bhattarai. *ICML.* (2025) [[link]](https://arxiv.org/pdf/2501.18006)
 
 
 ## Other non-TDA Topological Approaches in NLP
