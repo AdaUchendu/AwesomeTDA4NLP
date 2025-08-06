@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **97 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **100 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -165,6 +165,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **A Green AI Methodology Based on Persistent Homology for Compressing BERT.** Luis Balderas, Miguel Lastra, and José M. Benítez. *Applied Sciences.* (2025) [[link]](https://www.mdpi.com/2076-3417/15/1/390)
 - **Topological Data Mapping of Online Hate Speech, Misinformation, and General Mental Health: A Large Language Model Based Study.** Alexander, Andrew, and Hongbin Wang. *arXiv preprint arXiv:2309.13098.* (2023) [[link]](https://arxiv.org/pdf/2309.13098)
 - **Holes in Latent Space: Topological Signatures Under Adversarial Influence.** Aideen Fay, Inés García-Redondo, Qiquan Wang, Haim Dubossarsky, Anthea Monod. *arXiv preprint arXiv:2505.20435.* (2025) [[link]](https://arxiv.org/pdf/2505.20435)
+- **Do large gpt models discover moral dimensions in language representations? a topological study of sentence embeddings.** Stephen Fitz. *arXiv preprint arXiv:2309.09397.* (2023) [[link]](https://arxiv.org/pdf/2309.09397)
+- **Detecting token-level sentiment change in text translation through zig zag persistent homology.** Akram Bensalem, Mohamed Abderrahmane Bensalem, Mohamed Amine Chadli. *Preprint.* (2025) [[link]](https://hal.science/hal-05139630/document)
 
 
 
