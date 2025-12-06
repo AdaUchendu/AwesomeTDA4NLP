@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **100 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **110 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -64,7 +64,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Semantic topology.** Jussi Karlgren, Martin Bohman, Ariel Ekgren, Gabriel Isheden, Emelie Kullmann, and David Nilsson. *Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management* (2014) [[link]](https://www.sciencedirect.com/science/article/pii/S0957417406001813?casa_token=AFDmORbTOd8AAAAA:pEQ4ynuDICBcDwKakBq25lknW-JbKasH4PdLPmQr5oWUudRBsvsGOvYmFU-3uzOYgqOqJ-q94A)
 - **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* (2017) [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
 - **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
+- **A Language and Its Holes: The First-Order Homology of the Large-Scale Geometrical Structure of a Natural Language.** Vasilii A. Gromov, Quynh Nhu Dang, and Asel S. Erbolova. *Complexity, 2025(1), 9659172.* (2025) [[link]](https://onlinelibrary.wiley.com/doi/full/10.1155/cplx/9659172)
 
+ 
 #### **Syntactic Topological Space**
 - **Persistent topology of syntax.** Alexander Port, Iulia Gheorghita, Daniel Guth, John M Clark, Crystal Liang, Shival Dasu, and Matilde Marcolli. *Mathematics in Computer Science.* (2018) [[link]](https://link.springer.com/article/10.1007/s11786-017-0329-x) 
 - **Topological analysis of syntactic structures.** Alexander Port, Taelin Karidi, and Matilde Marcolli. *Mathematics in Computer Science* (2022) [[link]](https://link.springer.com/article/10.1007/s11786-021-00520-5)
@@ -117,6 +119,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Prediction of disease type from topological features of time series.** Giovanni Petri and Antonio Leitao. *gtda-challenge-2020.* (2020) [[link]](https://github.com/giotto-ai/gtda-challenge-2020/blob/master/lordgrilo/symbolic-disease-prediction.ipynb)
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 - **Detecting Narrative Shifts through Persistent Structures: A Topological Analysis of Media Discourse.** Mark M. Bailey, Mark I. Heiligman. *arXiv preprint arXiv:2506.14836.* (2025) [[link]](https://arxiv.org/pdf/2506.14836)
+- **Plot Holes and Text Topology.** Egor Alimpiev, Vivek Myers. *Stanford CS224N Custom Project.* (2020) [[link]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/reports/custom/report46.pdf)
 
 #### **GloVe**
 - **Topological signature of 19th century novelists: Persistent homology in text mining.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *Big Data and Cognitive Computing* (2018) [[link]](https://www.mdpi.com/2504-2289/2/4/33)
@@ -128,6 +131,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Abstraction, reasoning and deep learning: A study of the" look and say" sequence.** Wlodek W Zadrozny. *arXiv preprint arXiv:2109.12755.* (2021) [[link]](https://arxiv.org/abs/2109.12755)
 - **Topological data analysis helps to improve accuracy of deep learning models for fake news detection trained on very small training sets.** Ran Deng and Fedor Duzhin. *Big Data and Cognitive Computing* (2022) [[link]](https://www.mdpi.com/2504-2289/6/3/74)
 - **Network and topological analysis of scholarly metadata: A platform to model and predict collaboration.** Lance Novak. *Master’s thesis, Purdue University.* (2019) [[link]](https://www.proquest.com/docview/2827703668?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses)
+- **Detection of AI-Generated Texts Using Deep Learning and Topological Data Analysis.** Lilia Alanís-López, Juan Pablo Bernal Lafarga, Luis Roberto Garza Sánchez, Erick Isaac Lascano Otañez, Azahel Ramirez-Cabello, Alejandro Ucan-Puc. *In Mexican Congress on Artificial Intelligence, pp. 69-82. Cham: Springer Nature Switzerland, 2025.* (2025) [[link]](https://link.springer.com/chapter/10.1007/978-3-031-97907-1_6)
 
 #### **FastText**
 - **Topology of word embeddings: Singularities reflect polysemy.** Alexander Jakubowski, Milica Gasic, and Marcus Zibrowius. *Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics* (2020) [[link]](https://aclanthology.org/2020.starsem-1.11/)
@@ -136,6 +140,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 
 #### **ELMo**
 - **Con connections: Detecting fraud from abstracts using topological data analysis.** Sarah Tymochko, Julien Chaput, Timothy Doster, Emilie Purvine, Jackson Warley, and Tegan Emerson. *20th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2021) [[link]](https://ieeexplore.ieee.org/abstract/document/9680219?casa_token=WQTnSEnBCPkAAAAA:NYNNH5Xfhxh1FfXeXMwwM8PmlypDpzdd9R7DncUInVRCkzMkGXiBJ_XzR575in8cn8alVJTY)
+- **Plot Holes and Text Topology.** Egor Alimpiev, Vivek Myers. *Stanford CS224N Custom Project.* (2020) [[link]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/reports/custom/report46.pdf)
+
 
 
 #### **Transformers**
@@ -151,6 +157,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis After Off-topic Content Insertion.** Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau. *COLM* (2025) [[link]](https://arxiv.org/pdf/2504.02873)
 - **Topological Data Analysis for Distinguishing Human-Written and AI-Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
 - **Topo Goes Political: TDA-Based Controversy Detection in Imbalanced Reddit Political Data.** Arvindh Arun, Karuna K Chandra, Akshit Sinha, Balakumar Velayutham, Jashn Arora, Manish Jain, Ponnurangam Kumaraguru. *Companion Proceedings of the ACM on Web Conference 2025.* (2025) [[link]](https://dl.acm.org/doi/abs/10.1145/3701716.3717535)
+- **When Annotators Disagree, Topology Explains: Mapper, a Topological Tool for Exploring Text Embedding Geometry and Ambiguity.** Nisrine Rair, Alban Goupil, Valeriu Vrabie, Emmanuel Chochoy. *EMNLP 2025.* (2025) [[link]](https://aclanthology.org/2025.emnlp-main.426.pdf)
 
 
 *Hidden*
@@ -167,6 +174,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Holes in Latent Space: Topological Signatures Under Adversarial Influence.** Aideen Fay, Inés García-Redondo, Qiquan Wang, Haim Dubossarsky, Anthea Monod. *arXiv preprint arXiv:2505.20435.* (2025) [[link]](https://arxiv.org/pdf/2505.20435)
 - **Do large gpt models discover moral dimensions in language representations? a topological study of sentence embeddings.** Stephen Fitz. *arXiv preprint arXiv:2309.09397.* (2023) [[link]](https://arxiv.org/pdf/2309.09397)
 - **Detecting token-level sentiment change in text translation through zig zag persistent homology.** Akram Bensalem, Mohamed Abderrahmane Bensalem, Mohamed Amine Chadli. *Preprint.* (2025) [[link]](https://hal.science/hal-05139630/document)
+- **Binary Malware Attribution using LLM Embeddings and Topological Data Analysis.** Kincaid MacDonald, Ajai Ruparelia, Boomer Rogers, Adonis Bovell, Branden Stone. *CAMLIS’24: Conference on Applied Machine Learning for Information Security.* (2024) [[link]](https://ceur-ws.org/Vol-3920/paper14.pdf)
+- **DETECTION OF MACHINE-GENERATED TEXT BY INTEGRATING ROBERTA EMBEDDINGS WITH TOPOLOGICAL FEATURES.** Rejimoan R, Gnanapriya B, Jayasudha J S. *International Journal of Applied Mathematics.* (2025) [[link]](https://ijamjournal.org/ijam/publication/index.php/ijam/article/view/383/347)
+- **The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models.** Xue Wen Tan, Nathaniel Tan, Galen Lee, Stanley Kok. *arXiv preprint arXiv:2510.20665.* (2025) [[link]](https://arxiv.org/pdf/2510.20665)
 
 
 
@@ -202,7 +212,10 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Topology-enhanced machine learning for consonant recognition.** Y Zhu, P Feng, S Yi, Q Qu, and Z Yu. *Research Square.* (2024) [[link]](https://www.researchsquare.com/article/rs-3978261/v1)
 - **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
 - **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
-- **Topological Signatures of Adversaries in Multimodal Alignments.** Minh Vu, Geigh Zollicoffer, Huy Mai, Ben Nebgen, Boian Alexandrov, Manish Bhattarai. *ICML.* (2025) [[link]](https://arxiv.org/pdf/2501.18006)
+- **Topological Signatures of Adversaries in Multimodal Alignments.** Minh Vu, Geigh Zollicoffer, Huy Mai, Ben Nebgen, Boian Alexandrov, Manish Bhattarai. *ICML 2025.* (2025) [[link]](https://arxiv.org/pdf/2501.18006)
+- **Topological Deep Learning for Speech Recognition.** Zhiwang Yu1, Pingyao Feng, Qingrui Qu, Haiyu Zhang, Yifei Zhu. *arxiv* (2025) [[link]](https://yifeizhu.github.io/topker.pdf)
+- **Topological Alignment of Shared Vision-Language Embedding Space.** Junwon You, Dasol Kang, Jae-Hun Jung. *UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models @ NeurIPS 2025* (2025) [[link]](https://arxiv.org/pdf/2510.10889)
+- **The Shape of Emotion in Speech: Enhancing Emotional Classification Using Topological Data Analysis.** Michel Brandao Raskin, Christopher Boswell, Tatyana Sorokina. *Authorea Preprints, 2025.* (2025) [[link]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/279085/preprint_pdf/75e0d9c0ce9192afd52fde127cd8f066.pdf)
 
 
 ## Other non-TDA Topological Approaches in NLP
