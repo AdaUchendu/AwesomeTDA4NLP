@@ -47,6 +47,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
     - [2c. Symbolic Representation](#2c-symbolic-representation)
     - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
 
+- [Other non-TDA Topological Approaches Applied in NLP](#non-tda)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -223,6 +224,7 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **A topological semantics of dialogue: Nerve structures and logical extraction.** Andreu Ballus Santacana. *arXiv Preprint arXiv:2506.00615.* (2025) [[link]](https://arxiv.org/pdf/2506.00615)
 - **Generative topolinguistics: Bidirectional interfaces for emergent language topologies.** Iulia Ionescu, Jenn Leung, Yannis Siglidis. *Antikythera: Journal for the Philosophy of Planetary Computation.* (2025) [[link]](https://ualresearchonline.arts.ac.uk/id/eprint/24037/1/GenerativeTopolinguistics.pdf)
 - **Trees and after: The concept of text topology.** Xuan Luong, Michel Juillard, Sylvie Mellet, and Dominique Longrée. *Literary and Linguistic Computing, 22(2):167–186.* (2007) [[link]](https://academic.oup.com/dsh/article-abstract/22/2/167/940444)
+- **Semantic Topology: a New Perspective for Communication Style Characterization.** Barbara Scalvini, and Alireza Mashaghi. *Findings of the Association for Computational Linguistics: ACL 2025.* (2025) [[link]](https://aclanthology.org/2025.findings-acl.479.pdf)
 
 
 ## Tutorials
