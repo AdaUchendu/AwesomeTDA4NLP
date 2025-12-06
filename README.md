@@ -47,7 +47,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
     - [2c. Symbolic Representation](#2c-symbolic-representation)
     - [2d. Multi-Modal Representation](#2d-multi-modal-representation)
 
-- [Other non-TDA Topological Approaches Applied in NLP](#non-tda)
+- [Other non-TDA Topological Approaches Applied in NLP](#Other-non-TDA-Topological-Approaches-Applied-in-NLP)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
 - [Contributing](#contributing)
