@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **110 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **108 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -211,8 +211,6 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Emotion recognition in talking-face videos using persistent entropy and neural networks.** Eduardo Paluzo-Hidalgo, Rocio Gonzalez-Diaz, and Guillermo Aguirre-Carrazana. *Electronic Research Archive.* (2022) [[link]](https://www.aimspress.com/article/doi/10.3934/era.2022034)
 - **Topological data analysis to engineer features from audio signals for depression detection.** ML Tlachac, Adam Sargent, Ermal Toto, Randy Paffenroth, and Elke Rundensteiner. *19th IEEE International Conference on Machine Learning and Applications (ICMLA).* (2020) [[link]](https://ieeexplore.ieee.org/abstract/document/9356319?casa_token=mo6k8UBExnkAAAAA:YZO16Xc-sysnNbPU2PkJB_sIpe8yta8qGYIjHMgAgk7Qpmi-pbMuTNnJ86G2pjiRiSLvNS3P)
 - **Topology-enhanced machine learning for consonant recognition.** Y Zhu, P Feng, S Yi, Q Qu, and Z Yu. *Research Square.* (2024) [[link]](https://www.researchsquare.com/article/rs-3978261/v1)
-- **Bridging Topological Persistence and Machine Learning for Music Information Retrieval.** Luca Sassone, Marco Manetti, Mattia G Bergomi, and Massimo Ferri. *Ph.D. thesis, Sapienza – University of Rome.* (2022) [[link]](https://www.dm.unibo.it/home/ferri/hm/tesi/tesiSassone.pdf)
-- **Dynamical and topological tools for (modern) music analysis.** Mattia Giuseppe Bergomi. *Ph.D. thesis, Université Pierre et Marie Curie-Paris VI; Università degli studi (Milan, Italie).* (2015) [[link]](https://theses.hal.science/tel-01293602/)
 - **Topological Signatures of Adversaries in Multimodal Alignments.** Minh Vu, Geigh Zollicoffer, Huy Mai, Ben Nebgen, Boian Alexandrov, Manish Bhattarai. *ICML 2025.* (2025) [[link]](https://arxiv.org/pdf/2501.18006)
 - **Topological Deep Learning for Speech Recognition.** Zhiwang Yu1, Pingyao Feng, Qingrui Qu, Haiyu Zhang, Yifei Zhu. *arxiv* (2025) [[link]](https://yifeizhu.github.io/topker.pdf)
 - **Topological Alignment of Shared Vision-Language Embedding Space.** Junwon You, Dasol Kang, Jae-Hun Jung. *UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models @ NeurIPS 2025* (2025) [[link]](https://arxiv.org/pdf/2510.10889)
