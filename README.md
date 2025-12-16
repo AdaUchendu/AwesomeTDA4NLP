@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **108 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **111 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -121,6 +121,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Summary and distance between sets of texts based on topological data analysis.** Eduardo Paluzo Hidalgo, Rocío González Díaz, and Miguel Ángel Gutiérrez Naranjo. *arXiv preprint arXiv:1912.09253.* (2019) [[link]](https://arxiv.org/abs/1912.09253)
 - **Detecting Narrative Shifts through Persistent Structures: A Topological Analysis of Media Discourse.** Mark M. Bailey, Mark I. Heiligman. *arXiv preprint arXiv:2506.14836.* (2025) [[link]](https://arxiv.org/pdf/2506.14836)
 - **Plot Holes and Text Topology.** Egor Alimpiev, Vivek Myers. *Stanford CS224N Custom Project.* (2020) [[link]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/reports/custom/report46.pdf)
+- **What is missing from this picture? Persistent homology and mixup barcodes as a means of investigating negative embedding space.** Himanshu Yadav, Thomas Bryan Smith, Peter Bubenik, Christopher McCarty. *arXiv preprint arXiv:2510.14327.* (2025) [[link]](https://arxiv.org/pdf/2510.14327)
+
 
 #### **GloVe**
 - **Topological signature of 19th century novelists: Persistent homology in text mining.** Shafie Gholizadeh, Armin Seyeditabari, and Wlodek Zadrozny. *Big Data and Cognitive Computing* (2018) [[link]](https://www.mdpi.com/2504-2289/2/4/33)
@@ -178,6 +180,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Binary Malware Attribution using LLM Embeddings and Topological Data Analysis.** Kincaid MacDonald, Ajai Ruparelia, Boomer Rogers, Adonis Bovell, Branden Stone. *CAMLIS’24: Conference on Applied Machine Learning for Information Security.* (2024) [[link]](https://ceur-ws.org/Vol-3920/paper14.pdf)
 - **DETECTION OF MACHINE-GENERATED TEXT BY INTEGRATING ROBERTA EMBEDDINGS WITH TOPOLOGICAL FEATURES.** Rejimoan R, Gnanapriya B, Jayasudha J S. *International Journal of Applied Mathematics.* (2025) [[link]](https://ijamjournal.org/ijam/publication/index.php/ijam/article/view/383/347)
 - **The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models.** Xue Wen Tan, Nathaniel Tan, Galen Lee, Stanley Kok. *arXiv preprint arXiv:2510.20665.* (2025) [[link]](https://arxiv.org/pdf/2510.20665)
+- **Topology aware optimization of soft prompts.** Zhenzhen_Huang, Chaoning Zhang, Jiaquan Zhang, Songbo Zhang, Haoyu Bian, Yibei Liu, Guo Chen, Qigan Sun, Chenghao Li, Kuien Liu, Caiyan Qin, Yang Yang. *OpenReview.net.* (2025) [[link]](https://openreview.net/forum?id=0yjmQKUiUr&referrer=%5Bthe+profile+of+Songbo+Zhang%5D%28%2Fprofile%3Fid%3D%7ESongbo_Zhang2%29)
 
 
 
@@ -201,6 +204,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 #### 2c. Symbolic Representation
 - **Tongue twisters detection in Ukrainian by using tda.** Iryna Yurchuk and Olga Gurnik. *CEUR Workshop Proceedings.* (2023) [[link]](https://ceur-ws.org/Vol-3396/paper13.pdf)
 - **Topological structure of Ukrainian tongue twisters based on speech sound analysis.** Tetiana Kovaliuk, Iryna Yurchuk, and Olga Gurnik. *MoDaST-2024: 6th International Workshop on Modern Data Science Technologies.* (2024) [[link]](https://ceur-ws.org/Vol-3723/paper18.pdf)
+- **A topological analysis of the space of recipes.** Emerson G. Escolar, Yuta Shimada, Masahiro Yuasa. *International Journal of Gastronomy and Food Science 39, 101088.* (2025) [[link]](https://www.sciencedirect.com/science/article/pii/S1878450X2400221X)
 
 
 #### 2d. Multi-Modal Representation
