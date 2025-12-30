@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **111 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **118 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -181,6 +181,11 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **DETECTION OF MACHINE-GENERATED TEXT BY INTEGRATING ROBERTA EMBEDDINGS WITH TOPOLOGICAL FEATURES.** Rejimoan R, Gnanapriya B, Jayasudha J S. *International Journal of Applied Mathematics.* (2025) [[link]](https://ijamjournal.org/ijam/publication/index.php/ijam/article/view/383/347)
 - **The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models.** Xue Wen Tan, Nathaniel Tan, Galen Lee, Stanley Kok. *arXiv preprint arXiv:2510.20665.* (2025) [[link]](https://arxiv.org/pdf/2510.20665)
 - **Topology aware optimization of soft prompts.** Zhenzhen_Huang, Chaoning Zhang, Jiaquan Zhang, Songbo Zhang, Haoyu Bian, Yibei Liu, Guo Chen, Qigan Sun, Chenghao Li, Kuien Liu, Caiyan Qin, Yang Yang. *OpenReview.net.* (2025) [[link]](https://openreview.net/forum?id=0yjmQKUiUr&referrer=%5Bthe+profile+of+Songbo+Zhang%5D%28%2Fprofile%3Fid%3D%7ESongbo_Zhang2%29)
+- **Topology as a lens for semantic organization in transformer embeddings.** Igor Goshev, Petar Sekuloski, Ivan Chorbev, Dimitar Kitanovski, and Vesna Dimitrievska Ristovska. *INTERNATIONAL SCIENTIFIC JOURNAL "MATHEMATICAL MODELING".* (2025) [[link]](https://stumejournals.com/journals/mm/2025/2/80.full.pdf)
+- **Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis.** Chenghao Li, Chaoning Zhang1, Yi Lu, Shuxu Chen, Xudong Wang, Jiaquan Zhang, Zhicheng Wang, Zhengxun Jin, Kuien Liu, Sung-Ho Bae, Guoqing Wang, Yang Yang, Hen Tao Shen. *arxiv preprint 	arXiv:2512.19135.* (2025) [[link]](https://arxiv.org/pdf/2512.19135)
+- **Optimizing Chain-of-Thought Confidence via Topological and Dirichlet Risk Analysis.** Abhishek More, Anthony Zhang, Nicole Bonilla, Ashvik Vivekan, Kevin Zhu, Parham Sharafoleslami, Maheep Chaudhary. *arxiv preprint 	arXiv:2511.06437.* (2025) [[link]](https://arxiv.org/pdf/2511.06437)
+- 
+
 
 
 
@@ -219,6 +224,10 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Topological Deep Learning for Speech Recognition.** Zhiwang Yu1, Pingyao Feng, Qingrui Qu, Haiyu Zhang, Yifei Zhu. *arxiv* (2025) [[link]](https://yifeizhu.github.io/topker.pdf)
 - **Topological Alignment of Shared Vision-Language Embedding Space.** Junwon You, Dasol Kang, Jae-Hun Jung. *UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models @ NeurIPS 2025* (2025) [[link]](https://arxiv.org/pdf/2510.10889)
 - **The Shape of Emotion in Speech: Enhancing Emotional Classification Using Topological Data Analysis.** Michel Brandao Raskin, Christopher Boswell, Tatyana Sorokina. *Authorea Preprints, 2025.* (2025) [[link]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/279085/preprint_pdf/75e0d9c0ce9192afd52fde127cd8f066.pdf)
+- **Topology-Aware CLIP Few-shot Learning.** Dazhi Huang. *arxiv preprint arXiv:2505.01694.* (2025) [[link]](https://arxiv.org/pdf/2505.01694?)
+- **Homology Consistency Constrained Efficient Tuning for Vision-Language Models.** Huatian Zhang, Lei Zhang, Yongdong Zhang, Zhendong Mao. *NeurIPS 2024* (2024) [[link]](https://proceedings.neurips.cc/paper_files/paper/2024/file/a9338cd6e092ff1f96c3749b08cdc537-Paper-Conference.pdf)
+- **Topological Data Analysis and Graph-Based Learning for Multimodal Recommendation.** Khalil Bachiri, Ali Yahyaou, Maria Malek, Nicoleta Rogovschi. *IEEE Access* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/11048491)
+- **Topological Featurization of Speech Data for Speech Recognition.** Cárolos Laméris. *Master’s Thesis.* (2024) [[link]](https://campus-fryslan.studenttheses.ub.rug.nl/561/1/MA-3468720-CL-Lameris.pdf)
 
 
 ## Other non-TDA Topological Approaches in NLP
