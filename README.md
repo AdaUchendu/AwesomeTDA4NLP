@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **118 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **223 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -66,6 +66,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Context-aware profiling of concepts from a semantic topological space.** *Knowledge-Based Systems* (2017) [[link]](https://www.sciencedirect.com/science/article/pii/S0950705117302198?casa_token=QrpNgi3Cj70AAAAA:s3piMOcr2QevkQKvG5Y_6yB2AFMdGKUhfS7SoodRW7c_wh86BGcbld75GfAV6xQEQVzDDfTbew)
 - **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 - **A Language and Its Holes: The First-Order Homology of the Large-Scale Geometrical Structure of a Natural Language.** Vasilii A. Gromov, Quynh Nhu Dang, and Asel S. Erbolova. *Complexity, 2025(1), 9659172.* (2025) [[link]](https://onlinelibrary.wiley.com/doi/full/10.1155/cplx/9659172)
+- **S M Nazmuz Sakib Affix Isometry Index.** S M Nazmuz Sakib. *Researchgate.* (2025) [[link]](https://www.researchgate.net/profile/S-M-Nazmuz-Sakib-2/publication/398211282_S_M_Nazmuz_Sakib_Affix_Isometry_Index/links/692e32eb18a6405a30fa58df/S-M-Nazmuz-Sakib-Affix-Isometry-Index.pdf)
 
  
 #### **Syntactic Topological Space**
@@ -174,7 +175,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **The more polypersonal the better - A short look on space geometry of fine-tuned layers.** Sergei Kudriashov, Veronika Zykova, Angelina Stepanova, Jacob Raskind, and Eduard Klyshinsky. *International Conference on Neuroinformatics.* (2024) [[link]](https://publications.hse.ru/en/chapters/979170791)
 - **A Green AI Methodology Based on Persistent Homology for Compressing BERT.** Luis Balderas, Miguel Lastra, and José M. Benítez. *Applied Sciences.* (2025) [[link]](https://www.mdpi.com/2076-3417/15/1/390)
 - **Topological Data Mapping of Online Hate Speech, Misinformation, and General Mental Health: A Large Language Model Based Study.** Alexander, Andrew, and Hongbin Wang. *arXiv preprint arXiv:2309.13098.* (2023) [[link]](https://arxiv.org/pdf/2309.13098)
-- **Holes in Latent Space: Topological Signatures Under Adversarial Influence.** Aideen Fay, Inés García-Redondo, Qiquan Wang, Haim Dubossarsky, Anthea Monod. *arXiv preprint arXiv:2505.20435.* (2025) [[link]](https://arxiv.org/pdf/2505.20435)
+- **The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology.** Aideen Fay, Inés García-Redondo, Qiquan Wang, Haim Dubossarsky, Anthea Monod. *ICLR 2026.* (2026) [[link]](https://arxiv.org/pdf/2505.20435)
 - **Do large gpt models discover moral dimensions in language representations? a topological study of sentence embeddings.** Stephen Fitz. *arXiv preprint arXiv:2309.09397.* (2023) [[link]](https://arxiv.org/pdf/2309.09397)
 - **Detecting token-level sentiment change in text translation through zig zag persistent homology.** Akram Bensalem, Mohamed Abderrahmane Bensalem, Mohamed Amine Chadli. *Preprint.* (2025) [[link]](https://hal.science/hal-05139630/document)
 - **Binary Malware Attribution using LLM Embeddings and Topological Data Analysis.** Kincaid MacDonald, Ajai Ruparelia, Boomer Rogers, Adonis Bovell, Branden Stone. *CAMLIS’24: Conference on Applied Machine Learning for Information Security.* (2024) [[link]](https://ceur-ws.org/Vol-3920/paper14.pdf)
@@ -184,8 +185,8 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topology as a lens for semantic organization in transformer embeddings.** Igor Goshev, Petar Sekuloski, Ivan Chorbev, Dimitar Kitanovski, and Vesna Dimitrievska Ristovska. *INTERNATIONAL SCIENTIFIC JOURNAL "MATHEMATICAL MODELING".* (2025) [[link]](https://stumejournals.com/journals/mm/2025/2/80.full.pdf)
 - **Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis.** Chenghao Li, Chaoning Zhang1, Yi Lu, Shuxu Chen, Xudong Wang, Jiaquan Zhang, Zhicheng Wang, Zhengxun Jin, Kuien Liu, Sung-Ho Bae, Guoqing Wang, Yang Yang, Hen Tao Shen. *arxiv preprint 	arXiv:2512.19135.* (2025) [[link]](https://arxiv.org/pdf/2512.19135)
 - **Optimizing Chain-of-Thought Confidence via Topological and Dirichlet Risk Analysis.** Abhishek More, Anthony Zhang, Nicole Bonilla, Ashvik Vivekan, Kevin Zhu, Parham Sharafoleslami, Maheep Chaudhary. *arxiv preprint 	arXiv:2511.06437.* (2025) [[link]](https://arxiv.org/pdf/2511.06437)
-- 
-
+- **Explainable Mapper: Charting LLM Embedding Spaces Using Perturbation-Based Explanation and Verification Agents.** Xinyuan Yan, Rita Sevastjanova, Sinie van der Ben, Mennatallah El-Assady, Bei Wang. *arXiv preprint arXiv:2507.18607.* (2025) [[link]](https://arxiv.org/pdf/2507.18607)
+- **Topological Data Analysis for Transformer NMT: Exploring the Use of Cohomology-Based Persistence Landscapes as a Representation of Global Context.** Euis Asriani, Intan Muchtadi-Alamsyah, Ayu Purwarianti. *12th International Conference on Advanced Informatics: Concept, Theory and Application (ICAICTA).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/11335036?casa_token=WyptkJl2DCYAAAAA:sigGEqEqQdeFThgWDhfv8lhyte9tPhAjC8U-tbhzmOgRWvAHOXvyjwFXgZNkKNCmHu7hD6aT)
 
 
 
@@ -203,6 +204,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Dialogue term extraction using transfer learning and topological data analysis.** Renato Vukovic, Michael Heck, Benjamin Ruppik, Carel van Niekerk, Marcus Zibrowius, and Milica Gasic. *Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* (2022) [[link]](https://aclanthology.org/2022.sigdial-1.53/)
 - **Authorship Attribution by Attention Pattern of BERT with Topological Data Analysis and UMAP.** Wataru Sakurai, Masato Asano, Daisuke Imoto, Masakatsu Honma, and Kenji Kurosawa. *2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/10920755?casa_token=BFPmwK4v3scAAAAA:iwfpffUEe7Cbg26dEp6AuOHfgDb2Fj5A07XUi5vU1GPx8o34sdDXI7ccLl_A-NiFfZ4rW9W5)
 - **Hallucination Detection in LLMs via Topological Divergence on Attention Graphs.** Alexandra Bazarova, Aleksandr Yugay, Andrey Shulga, Alina Ermilova, Andrei Volodichev, Konstantin Polev, Julia Belikova, Rauf Parchiev, Dmitry Simakov, Maxim Savchenko, Andrey Savchenko, Serguei Barannikov, Alexey Zaytsev. *arxiv preprint arXiv:2504.10063.* (2025) [[link]](https://arxiv.org/pdf/2504.10063)
+- **HalluZig: Hallucination Detection using Zigzag Persistence.** Shreyas N. Samaga, Gilberto Gonzalez Arroyo, Tamal K. Dey. *EACL 2026.* (2026) [[link]](https://arxiv.org/pdf/2601.01552)
+- **Augmenting Bias Detection in LLMs Using Topological Data Analysis.** Keshav Varadarajan, Tananun Songdechakraiwut. *arXiv preprint arXiv:2508.07516.* (2025) [[link]](https://arxiv.org/pdf/2508.07516)
+
 
 
 
