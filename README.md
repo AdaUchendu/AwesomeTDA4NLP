@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **123 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **125 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -183,10 +183,13 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models.** Xue Wen Tan, Nathaniel Tan, Galen Lee, Stanley Kok. *arXiv preprint arXiv:2510.20665.* (2025) [[link]](https://arxiv.org/pdf/2510.20665)
 - **Topology aware optimization of soft prompts.** Zhenzhen_Huang, Chaoning Zhang, Jiaquan Zhang, Songbo Zhang, Haoyu Bian, Yibei Liu, Guo Chen, Qigan Sun, Chenghao Li, Kuien Liu, Caiyan Qin, Yang Yang. *OpenReview.net.* (2025) [[link]](https://openreview.net/forum?id=0yjmQKUiUr&referrer=%5Bthe+profile+of+Songbo+Zhang%5D%28%2Fprofile%3Fid%3D%7ESongbo_Zhang2%29)
 - **Topology as a lens for semantic organization in transformer embeddings.** Igor Goshev, Petar Sekuloski, Ivan Chorbev, Dimitar Kitanovski, and Vesna Dimitrievska Ristovska. *INTERNATIONAL SCIENTIFIC JOURNAL "MATHEMATICAL MODELING".* (2025) [[link]](https://stumejournals.com/journals/mm/2025/2/80.full.pdf)
-- **Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis.** Chenghao Li, Chaoning Zhang1, Yi Lu, Shuxu Chen, Xudong Wang, Jiaquan Zhang, Zhicheng Wang, Zhengxun Jin, Kuien Liu, Sung-Ho Bae, Guoqing Wang, Yang Yang, Hen Tao Shen. *arxiv preprint 	arXiv:2512.19135.* (2025) [[link]](https://arxiv.org/pdf/2512.19135)
+- **Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis.** Chenghao Li, Chaoning Zhang, Yi Lu, Shuxu Chen, Xudong Wang, Jiaquan Zhang, Zhicheng Wang, Zhengxun Jin, Kuien Liu, Sung-Ho Bae, Guoqing Wang, Yang Yang, Hen Tao Shen. *arxiv preprint 	arXiv:2512.19135.* (2025) [[link]](https://arxiv.org/pdf/2512.19135)
 - **Optimizing Chain-of-Thought Confidence via Topological and Dirichlet Risk Analysis.** Abhishek More, Anthony Zhang, Nicole Bonilla, Ashvik Vivekan, Kevin Zhu, Parham Sharafoleslami, Maheep Chaudhary. *arxiv preprint 	arXiv:2511.06437.* (2025) [[link]](https://arxiv.org/pdf/2511.06437)
 - **Explainable Mapper: Charting LLM Embedding Spaces Using Perturbation-Based Explanation and Verification Agents.** Xinyuan Yan, Rita Sevastjanova, Sinie van der Ben, Mennatallah El-Assady, Bei Wang. *arXiv preprint arXiv:2507.18607.* (2025) [[link]](https://arxiv.org/pdf/2507.18607)
 - **Topological Data Analysis for Transformer NMT: Exploring the Use of Cohomology-Based Persistence Landscapes as a Representation of Global Context.** Euis Asriani, Intan Muchtadi-Alamsyah, Ayu Purwarianti. *12th International Conference on Advanced Informatics: Concept, Theory and Application (ICAICTA).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/11335036?casa_token=WyptkJl2DCYAAAAA:sigGEqEqQdeFThgWDhfv8lhyte9tPhAjC8U-tbhzmOgRWvAHOXvyjwFXgZNkKNCmHu7hD6aT)
+- **GHS-TDA: A Synergistic Reasoning Framework Integrating Global Hypothesis Space with Topological Data Analysis.** Jiaquan Zhang, Chaoning Zhang, Shuxu Chen, Xudong Wang, Zhenzhen Huang, Pengcheng Zheng, Shuai Yuan, Sheng Zheng, Qigan Sun, Jie Zou, Lik-Hang Lee, Yang Yang. *ICLR 2026.* (2026) [[link]](https://openreview.net/forum?id=9QSWEdHDnT)
+- **TEXT SUMMARIZATION VIA GLOBAL STRUCTURE AWARENESS.** Jiaquan Zhang, Chaoning Zhang, Shuxu Chen, Yibei Liu, Chenghao Li, Qigan Sun, Shuai Yuan, Fachrina Dewi Puspitasari, Dongshen Han, Guoqing Wang, Sung-Ho Bae, Yang Yang. *arXiv preprint arXiv:2602.09821.* (2026) [[link]](https://arxiv.org/pdf/2602.09821)
+
 
 
 
