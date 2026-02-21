@@ -243,6 +243,10 @@ Tronçon, and Arnaud Rey. *Interspeech 2024.* (2024) [[link]](https://www.isca-a
 - **Generative topolinguistics: Bidirectional interfaces for emergent language topologies.** Iulia Ionescu, Jenn Leung, Yannis Siglidis. *Antikythera: Journal for the Philosophy of Planetary Computation.* (2025) [[link]](https://ualresearchonline.arts.ac.uk/id/eprint/24037/1/GenerativeTopolinguistics.pdf)
 - **Trees and after: The concept of text topology.** Xuan Luong, Michel Juillard, Sylvie Mellet, and Dominique Longrée. *Literary and Linguistic Computing, 22(2):167–186.* (2007) [[link]](https://academic.oup.com/dsh/article-abstract/22/2/167/940444)
 - **Semantic Topology: a New Perspective for Communication Style Characterization.** Barbara Scalvini, and Alireza Mashaghi. *Findings of the Association for Computational Linguistics: ACL 2025.* (2025) [[link]](https://aclanthology.org/2025.findings-acl.479.pdf)
+- **LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation.** Luis Lazo, Hamed Jelodar, Roozbeh Razavi-Far. *arXiv Preprint arXiv:2601.14528.* (2026) [[link]](https://arxiv.org/pdf/2601.14528)
+- **Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks.** Zi Wang, Divyam Anshumaan, Ashish Hooda, Yudong Chen, Somesh Jha. *ICLR 2025.* (2025) [[link]](https://openreview.net/pdf?id=uhaLuZcCjH)
+
+
 
 
 ## Tutorials
