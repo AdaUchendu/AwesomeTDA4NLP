@@ -9,7 +9,7 @@ Among these, the field of Machine Learning (ML) has thrived by leveraging data t
 data, often due to issues of imbalance, noise, insufficient labeling, and high dimensionality. To address these limitations, some researchers advocate for the adoption of Topological Data
 Analysis (TDA), a statistical approach that discerningly captures the intrinsic shape of data despite noise. Despite its potential, TDA has not gained as much traction within the 
 Natural Language Processing (NLP) domain compared to structurally distinct areas like computer vision. Nevertheless, a dedicated community of researchers has been exploring the application
-of TDA in NLP, yielding **125 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
+of TDA in NLP, yielding **130 papers** we comprehensively survey in this paper. Our findings categorize these efforts into theoretical and non-theoretical approaches. Theoretical
 approaches aim to explain linguistic phenomena from a topological viewpoint, while non-theoretical approaches merge TDA with ML features, utilizing diverse numerical representation techniques. 
 We conclude by exploring the challenges and unresolved questions that persist in this niche field.
 
@@ -67,6 +67,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Computational topology in text mining.** Hubert Wagner, Paweł Dłotko, and Marian Mrozek. *Computational Topology in Image Context: 4th International Workshop.* (2012) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-30238-1_8)
 - **A Language and Its Holes: The First-Order Homology of the Large-Scale Geometrical Structure of a Natural Language.** Vasilii A. Gromov, Quynh Nhu Dang, and Asel S. Erbolova. *Complexity, 2025(1), 9659172.* (2025) [[link]](https://onlinelibrary.wiley.com/doi/full/10.1155/cplx/9659172)
 - **S M Nazmuz Sakib Affix Isometry Index.** S M Nazmuz Sakib. *Researchgate.* (2025) [[link]](https://www.researchgate.net/profile/S-M-Nazmuz-Sakib-2/publication/398211282_S_M_Nazmuz_Sakib_Affix_Isometry_Index/links/692e32eb18a6405a30fa58df/S-M-Nazmuz-Sakib-Affix-Isometry-Index.pdf)
+- **Architecture and evolution of semantic networks in mathematics texts.** Nicolas H. Christianson, Ann Sizemore Blevins, Danielle S. Bassett. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.* (2020) [[link]](https://royalsocietypublishing.org/rspa/article/476/2239/20190741/80763/Architecture-and-evolution-of-semantic-networks-in)
 
  
 #### **Syntactic Topological Space**
@@ -162,6 +163,7 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological Data Analysis for Distinguishing Human-Written and AI-Generated Abstracts.** Ann Guilinger, Eli Best, Vinay Awasthi. *preprints.org* (2025) [[link]](https://www.preprints.org/manuscript/202505.0097/v1)
 - **Topo Goes Political: TDA-Based Controversy Detection in Imbalanced Reddit Political Data.** Arvindh Arun, Karuna K Chandra, Akshit Sinha, Balakumar Velayutham, Jashn Arora, Manish Jain, Ponnurangam Kumaraguru. *Companion Proceedings of the ACM on Web Conference 2025.* (2025) [[link]](https://dl.acm.org/doi/abs/10.1145/3701716.3717535)
 - **When Annotators Disagree, Topology Explains: Mapper, a Topological Tool for Exploring Text Embedding Geometry and Ambiguity.** Nisrine Rair, Alban Goupil, Valeriu Vrabie, Emmanuel Chochoy. *EMNLP 2025.* (2025) [[link]](https://aclanthology.org/2025.emnlp-main.426.pdf)
+- **The Topology of Recovery: Using Persistent Homology to Map Individual Mental Health Journeys in Online Communities.** Joydeep Chandra, Satyam Kumar Navneet, Yong Zhang. *CHI 2026.* (2026) [[link]](https://arxiv.org/pdf/2602.23886)
 
 
 *Hidden*
@@ -189,7 +191,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Topological Data Analysis for Transformer NMT: Exploring the Use of Cohomology-Based Persistence Landscapes as a Representation of Global Context.** Euis Asriani, Intan Muchtadi-Alamsyah, Ayu Purwarianti. *12th International Conference on Advanced Informatics: Concept, Theory and Application (ICAICTA).* (2025) [[link]](https://ieeexplore.ieee.org/abstract/document/11335036?casa_token=WyptkJl2DCYAAAAA:sigGEqEqQdeFThgWDhfv8lhyte9tPhAjC8U-tbhzmOgRWvAHOXvyjwFXgZNkKNCmHu7hD6aT)
 - **GHS-TDA: A Synergistic Reasoning Framework Integrating Global Hypothesis Space with Topological Data Analysis.** Jiaquan Zhang, Chaoning Zhang, Shuxu Chen, Xudong Wang, Zhenzhen Huang, Pengcheng Zheng, Shuai Yuan, Sheng Zheng, Qigan Sun, Jie Zou, Lik-Hang Lee, Yang Yang. *ICLR 2026.* (2026) [[link]](https://openreview.net/forum?id=9QSWEdHDnT)
 - **TEXT SUMMARIZATION VIA GLOBAL STRUCTURE AWARENESS.** Jiaquan Zhang, Chaoning Zhang, Shuxu Chen, Yibei Liu, Chenghao Li, Qigan Sun, Shuai Yuan, Fachrina Dewi Puspitasari, Dongshen Han, Guoqing Wang, Sung-Ho Bae, Yang Yang. *arXiv preprint arXiv:2602.09821.* (2026) [[link]](https://arxiv.org/pdf/2602.09821)
-
+- **Encoding Group Interests With Persistent Homology for Personalized Search.** Yuchen Meng, Rong-Hua Li, Hongchao Qin, Xiang Wu, Huanzhong Duan, Yanxiong Lu, Guoren Wang. *IEEE Transactions on Systems, Man, and Cybernetics: Systems.* (2024) [[link]](https://ieeexplore.ieee.org/abstract/document/10571972)
+- **Persistent Homology of Topic Networks for the Prediction of Reader Curiosity.** Manuel D. S. Hopp, Vincent Labatut, Arthur Amalvy, Richard Dufour, Hannah Stone, Hayley Jach, Kou Murayama. *ACL 2025.* (2025) [[link]](https://aclanthology.org/2025.acl-long.1364.pdf)
+- **The Hole-in-the-Bagel Theory of Consciousness - A Phenomenological Study and Topodynamic Model for Emergent Coherence in LLMs.** Ishimtsev, Timofey. *Preprint.* (2026) [[link]](https://zenodo.org/records/18346699)
 
 
 
