@@ -194,6 +194,12 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Encoding Group Interests With Persistent Homology for Personalized Search.** Yuchen Meng, Rong-Hua Li, Hongchao Qin, Xiang Wu, Huanzhong Duan, Yanxiong Lu, Guoren Wang. *IEEE Transactions on Systems, Man, and Cybernetics: Systems.* (2024) [[link]](https://ieeexplore.ieee.org/abstract/document/10571972)
 - **Persistent Homology of Topic Networks for the Prediction of Reader Curiosity.** Manuel D. S. Hopp, Vincent Labatut, Arthur Amalvy, Richard Dufour, Hannah Stone, Hayley Jach, Kou Murayama. *ACL 2025.* (2025) [[link]](https://aclanthology.org/2025.acl-long.1364.pdf)
 - **The Hole-in-the-Bagel Theory of Consciousness - A Phenomenological Study and Topodynamic Model for Emergent Coherence in LLMs.** Ishimtsev, Timofey. *Preprint.* (2026) [[link]](https://zenodo.org/records/18346699)
+- **TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large Language Models.** Jiaquan Zhang, Qigan Sun, Chaoning Zhang, Senior Member, Xudong Wang, Zhenzhen Huang, Yitian Zhou, Pengcheng Zheng, Chi-lok Andy Tai, Sung-Ho Bae. *arXiv preprint arXiv:2604.04942.* (2026) [[link]](https://arxiv.org/pdf/2604.04942)
+- **HOLE: Homological Observation of Latent Embeddings for Neural Network Interpretability.** Sudhanva Manjunath Athreya, Paul Rosen. *arXiv preprint arXiv:2512.07988.* (2025) [[link]](https://arxiv.org/pdf/2512.07988v3)
+- **Topological Perspectives on Optimal Multimodal Embedding Spaces.** Abdul Aziz Ahamed Bahrudeen, A.B Abdul Rahim. *arXiv preprint arXiv:2405.18867.* (2024) [[link]](https://arxiv.org/pdf/2405.18867v1)
+- **Topo-R1: Detecting Topological Anomalies via Vision-Language Models.** Meilong Xu, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Xin Yu, Weimin Lyu, Kehan Qi, Dimitris Samaras, Chao Chen. *arXiv preprint arXiv:2603.13054.* (2026) [[link]](https://arxiv.org/pdf/2603.13054)
+- **Topology-Aware Layer Pruning for Large Vision-Language Models.** Pengcheng Zheng, Chaoning Zhang, Ya Wen, Wang Liu, Qigan Sun, Jiarong Mo, Jiaquan Zhang, Jewon Lee, Tae-Ho Kim, Kuien Liu, Tianyu Li, Caiyan Qin, Yang Yang. *arXiv preprint arXiv:2604.16502v1.* [[link]](https://arxiv.org/pdf/2604.16502)
+
 
 
 
@@ -213,6 +219,9 @@ We conclude by exploring the challenges and unresolved questions that persist in
 - **Hallucination Detection in LLMs via Topological Divergence on Attention Graphs.** Alexandra Bazarova, Aleksandr Yugay, Andrey Shulga, Alina Ermilova, Andrei Volodichev, Konstantin Polev, Julia Belikova, Rauf Parchiev, Dmitry Simakov, Maxim Savchenko, Andrey Savchenko, Serguei Barannikov, Alexey Zaytsev. *arxiv preprint arXiv:2504.10063.* (2025) [[link]](https://arxiv.org/pdf/2504.10063)
 - **HalluZig: Hallucination Detection using Zigzag Persistence.** Shreyas N. Samaga, Gilberto Gonzalez Arroyo, Tamal K. Dey. *EACL 2026.* (2026) [[link]](https://arxiv.org/pdf/2601.01552)
 - **Augmenting Bias Detection in LLMs Using Topological Data Analysis.** Keshav Varadarajan, Tananun Songdechakraiwut. *arXiv preprint arXiv:2508.07516.* (2025) [[link]](https://arxiv.org/pdf/2508.07516)
+- **Topology of Attention Detects Hallucinations in Code LLMs.** Daria Voronkova, Ilya Trofimov, Anton Dmitriev, Eduard Tulchinskii, Evgeny Burnaev, Serguei Barannikov. *OpenReview* [[link]](https://openreview.net/forum?id=POLPQHcuYY)
+- **The Shape of Vulnerability: How Adversarial Perturbations Reshape the Topology of Language Model Latent Spaces.** Angelina Tsai, Shreya Subramanian, Catherine Liu, Kimberly Lopez, Leif Zinn-Brooks, Alexia Schulz, Adaku Uchendu. *ACL 2026 Student Research Workshop.* [[Link]](https://openreview.net/forum?id=nTqXp3wYB9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2F2026%2FSRW_Direct_Submission%2FAuthors%23your-submissions))
+
 
 
 
