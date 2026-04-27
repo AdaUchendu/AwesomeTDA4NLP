@@ -19,10 +19,10 @@ We conclude by exploring the challenges and unresolved questions that persist in
 ## How to cite the Repo or Paper
 ```bibtex
 @article{uchendu2024unveiling,
-  title={Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP},
+  title={Topological Data Analysis Applications in Natural Language Processing: A Survey},
   author={Uchendu, Adaku and Le, Thai},
-  journal={arXiv preprint arXiv:2411.10298},
-  year={2024},
+  journal={SIGKDD Explorations},
+  year={2026},
   url={https://arxiv.org/abs/2411.10298} 
 }
 ```
